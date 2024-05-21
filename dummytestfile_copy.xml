@@ -1,0 +1,3915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- *** Pixelogic XML Subtitle or Caption File (version 0.91) *** -->
+<!-- *** Created by Pixelogic *** -->
+<!-- *** 2024/05/21 15:48:34 *** -->
+<!-- *** dummytestfile *** -->
+<CaptionsIncXML>
+  <head>
+    <ssfHeader>
+      <IdSummary>SubEdit, a subtitle editing solution</IdSummary>
+      <ProjectID>xx</ProjectID>
+      <TimecodeType>N</TimecodeType>
+      <MaxRowCount>12</MaxRowCount>
+      <ReadableFileName>walkingtall2004_feature_mgm_mezz_txt_23976_eng</ReadableFileName>
+      <CharSetOriginal>AN</CharSetOriginal>
+      <CultureID>eng-USA-Latn</CultureID>
+      <BandW>True</BandW>
+      <NetflixRule>True</NetflixRule>
+      <ActiveRec>1</ActiveRec>
+      <SavedDateTimeStamp>45433.6587268518</SavedDateTimeStamp>
+      <ThisSsfVersion>19</ThisSsfVersion>
+      <DialogueDensityLocal>9.92206</DialogueDensityLocal>
+      <FontNameDefault>Ari2K</FontNameDefault>
+      <HorSafeTitle>10</HorSafeTitle>
+      <VerSafeTitle>10</VerSafeTitle>
+    </ssfHeader>
+  </head>
+  <body>
+    <record xml:id="record1" timeIn="00:02:28:04" timeOut="00:02:30:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Here you go.</add>
+        <add horPos="C" verPos="12" color="white">-Thanks, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record2" timeIn="00:02:30:03" timeOut="00:02:31:12">
+      <textRows>
+        <add horPos="C" verPos="1" color="white">See you tomorrow.</add>
+      </textRows>
+    </record>
+    <record xml:id="record3" timeIn="00:03:16:07" timeOut="00:03:17:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">How you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record4" timeIn="00:03:19:01" timeOut="00:03:20:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Okay.</add>
+      </textRows>
+    </record>
+    <record xml:id="record5" timeIn="00:03:21:11" timeOut="00:03:24:08">
+      <textRows>
+        <add horPos="C" verPos="1" color="white">-When did the mill close?</add>
+        <add horPos="C" verPos="2" color="white">-Three years ago this August.</add>
+      </textRows>
+    </record>
+    <record xml:id="record6" timeIn="00:03:24:09" timeOut="00:03:27:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">If you&apos;re looking for work,</add>
+        <add horPos="C" verPos="12" color="white">you may want to try Aberdeen.</add>
+      </textRows>
+    </record>
+    <record xml:id="record7" timeIn="00:03:27:01" timeOut="00:03:29:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">That&apos;s about the closest mill work</add>
+        <add horPos="C" verPos="12" color="white">you&apos;ll find.</add>
+      </textRows>
+    </record>
+    <record xml:id="record8" timeIn="00:03:29:07" timeOut="00:03:31:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Too bad.</add>
+        <add horPos="C" verPos="12" color="white">-It&apos;s just simple economics.</add>
+      </textRows>
+    </record>
+    <record xml:id="record9" timeIn="00:03:31:10" timeOut="00:03:34:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You know, we have a really nice casino,</add>
+        <add horPos="C" verPos="12" color="white">the Wild Cherry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record10" timeIn="00:03:34:09" timeOut="00:03:37:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Want to make some money,</add>
+        <add horPos="C" verPos="12" color="white">maybe you ought to go on down</add>
+      </textRows>
+    </record>
+    <record xml:id="record11" timeIn="00:03:37:03" timeOut="00:03:39:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">and try your luck at the blackjack tables.</add>
+      </textRows>
+    </record>
+    <record xml:id="record12" timeIn="00:03:39:01" timeOut="00:03:41:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No, I don&apos;t think so. Thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record13" timeIn="00:03:41:11" timeOut="00:03:42:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re Chris Vaughn?</add>
+      </textRows>
+    </record>
+    <record xml:id="record14" timeIn="00:03:45:05" timeOut="00:03:48:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Well, hell. I know all about you, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record15" timeIn="00:03:48:11" timeOut="00:03:50:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I know your folks.</add>
+        <add horPos="C" verPos="12" color="white">I&apos;m Sheriff Stan Watkins.</add>
+      </textRows>
+    </record>
+    <record xml:id="record16" timeIn="00:03:51:00" timeOut="00:03:53:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-How you doing?</add>
+        <add horPos="C" verPos="12" color="white">-Ralston, get out of the car!</add>
+      </textRows>
+    </record>
+    <record xml:id="record17" timeIn="00:03:53:11" timeOut="00:03:56:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You&apos;re looking at a real soldier here.</add>
+        <add horPos="C" verPos="12" color="white">Pay some respects.</add>
+      </textRows>
+    </record>
+    <record xml:id="record18" timeIn="00:03:56:07" timeOut="00:03:58:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Welcome home, soldier.</add>
+        <add horPos="C" verPos="12" color="white">-Thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record19" timeIn="00:03:58:14" timeOut="00:04:00:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Well, hell, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record20" timeIn="00:04:01:08" timeOut="00:04:03:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;ll give you a ride up to your folks&apos;.</add>
+        <add horPos="C" verPos="12" color="white">-No, I&apos;m fine. Thank you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record21" timeIn="00:04:03:22" timeOut="00:04:05:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I insist.</add>
+        <add horPos="C" verPos="12" color="white">-I&apos;ll walk.</add>
+      </textRows>
+    </record>
+    <record xml:id="record22" timeIn="00:04:05:10" timeOut="00:04:06:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-It&apos;s my pleasure.</add>
+        <add horPos="C" verPos="12" color="white">-It&apos;s okay.</add>
+      </textRows>
+    </record>
+    <record xml:id="record23" timeIn="00:04:06:18" timeOut="00:04:09:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I won&apos;t take no for an answer.</add>
+        <add horPos="C" verPos="12" color="white">Get in the car.</add>
+      </textRows>
+    </record>
+    <record xml:id="record24" timeIn="00:04:12:20" timeOut="00:04:15:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Did I scare you with that one?</add>
+        <add horPos="C" verPos="12" color="white">-Little bit.</add>
+      </textRows>
+    </record>
+    <record xml:id="record25" timeIn="00:04:16:17" timeOut="00:04:17:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I scared him.</add>
+      </textRows>
+    </record>
+    <record xml:id="record26" timeIn="00:04:25:03" timeOut="00:04:26:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You were gone a while, huh?</add>
+      </textRows>
+    </record>
+    <record xml:id="record27" timeIn="00:04:26:12" timeOut="00:04:29:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Eight years. Harstad was sheriff back then.</add>
+      </textRows>
+    </record>
+    <record xml:id="record28" timeIn="00:04:30:09" timeOut="00:04:31:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Aaron Harstad, yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record29" timeIn="00:04:33:16" timeOut="00:04:34:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sad story.</add>
+      </textRows>
+    </record>
+    <record xml:id="record30" timeIn="00:04:35:00" timeOut="00:04:39:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">About five months back,</add>
+        <add horPos="C" verPos="12" color="white">he fell asleep at the wheel and hit a tree.</add>
+      </textRows>
+    </record>
+    <record xml:id="record31" timeIn="00:04:40:21" timeOut="00:04:43:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Car folded up like an accordion.</add>
+      </textRows>
+    </record>
+    <record xml:id="record32" timeIn="00:04:44:16" timeOut="00:04:47:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He was a good man.</add>
+        <add horPos="C" verPos="12" color="white">A good man and a good sheriff.</add>
+      </textRows>
+    </record>
+    <record xml:id="record33" timeIn="00:05:09:16" timeOut="00:05:10:18">
+      <textRows>
+        <add horPos="C" verPos="1" color="white">All right.</add>
+      </textRows>
+    </record>
+    <record xml:id="record34" timeIn="00:05:14:21" timeOut="00:05:18:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Thank you very much for the ride.</add>
+        <add horPos="C" verPos="12" color="white">-Welcome home, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record35" timeIn="00:05:21:13" timeOut="00:05:24:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">It&apos;s election month. I&apos;m your man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record36" timeIn="00:05:26:23" timeOut="00:05:29:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Okay. Say hey to your old man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record37" timeIn="00:05:29:22" timeOut="00:05:30:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s go.</add>
+      </textRows>
+    </record>
+    <record xml:id="record38" timeIn="00:05:57:00" timeOut="00:05:58:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Can I help you?</add>
+      </textRows>
+    </record>
+    <record xml:id="record39" timeIn="00:06:00:23" timeOut="00:06:03:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Little brother.</add>
+        <add horPos="C" verPos="12" color="white">You come over here and give me a hug.</add>
+      </textRows>
+    </record>
+    <record xml:id="record40" timeIn="00:06:12:07" timeOut="00:06:14:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You look great.</add>
+        <add horPos="C" verPos="12" color="white">-What is this?</add>
+      </textRows>
+    </record>
+    <record xml:id="record41" timeIn="00:06:14:21" timeOut="00:06:18:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I couldn&apos;t let you be</add>
+        <add horPos="C" verPos="12" color="white">the only one looking good in uniform.</add>
+      </textRows>
+    </record>
+    <record xml:id="record42" timeIn="00:06:18:04" timeOut="00:06:20:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hey, Ma. Chris is here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record43" timeIn="00:06:20:15" timeOut="00:06:22:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Whose tent?</add>
+        <add horPos="C" verPos="12" color="white">-That&apos;s for Pete.</add>
+      </textRows>
+    </record>
+    <record xml:id="record44" timeIn="00:06:23:08" timeOut="00:06:24:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Watch out, now.</add>
+        <add horPos="C" verPos="12" color="white">-Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record45" timeIn="00:06:26:03" timeOut="00:06:28:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Look at you.</add>
+        <add horPos="C" verPos="12" color="white">-Mom, how you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record46" timeIn="00:06:32:04" timeOut="00:06:34:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">How long&apos;s your leave?</add>
+        <add horPos="C" verPos="12" color="white">How long do we have you?</add>
+      </textRows>
+    </record>
+    <record xml:id="record47" timeIn="00:06:34:11" timeOut="00:06:36:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">For good. I&apos;m home.</add>
+      </textRows>
+    </record>
+    <record xml:id="record48" timeIn="00:06:36:05" timeOut="00:06:38:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Really? You&apos;re not kidding?</add>
+        <add horPos="C" verPos="12" color="white">-No.</add>
+      </textRows>
+    </record>
+    <record xml:id="record49" timeIn="00:06:43:17" timeOut="00:06:45:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hey, Dad.</add>
+        <add horPos="C" verPos="12" color="white">-Welcome back.</add>
+      </textRows>
+    </record>
+    <record xml:id="record50" timeIn="00:06:48:02" timeOut="00:06:51:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I wish you had told us exactly when</add>
+        <add horPos="C" verPos="12" color="white">you were coming. I&apos;d have cooked.</add>
+      </textRows>
+    </record>
+    <record xml:id="record51" timeIn="00:06:51:10" timeOut="00:06:52:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-This is fine, Mom.</add>
+        <add horPos="C" verPos="12" color="white">-We love Chinese.</add>
+      </textRows>
+    </record>
+    <record xml:id="record52" timeIn="00:06:52:23" timeOut="00:06:55:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-No, this is great.</add>
+        <add horPos="C" verPos="12" color="white">-So what are you going to do now?</add>
+      </textRows>
+    </record>
+    <record xml:id="record53" timeIn="00:06:55:10" timeOut="00:06:58:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I was planning to work at the mill,</add>
+        <add horPos="C" verPos="12" color="white">but you never mentioned it closed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record54" timeIn="00:06:58:22" timeOut="00:07:01:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">We didn&apos;t want to bother you</add>
+        <add horPos="C" verPos="12" color="white">when your father got laid off.</add>
+      </textRows>
+    </record>
+    <record xml:id="record55" timeIn="00:07:01:16" timeOut="00:07:03:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I got my business.</add>
+        <add horPos="C" verPos="12" color="white">You saw the furniture outside.</add>
+      </textRows>
+    </record>
+    <record xml:id="record56" timeIn="00:07:03:22" timeOut="00:07:07:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And I substitute at the elementary school.</add>
+        <add horPos="C" verPos="12" color="white">Michelle pitches in,</add>
+      </textRows>
+    </record>
+    <record xml:id="record57" timeIn="00:07:07:02" timeOut="00:07:08:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">we try to keep things simple.</add>
+      </textRows>
+    </record>
+    <record xml:id="record58" timeIn="00:07:09:00" timeOut="00:07:10:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Pete.</add>
+      </textRows>
+    </record>
+    <record xml:id="record59" timeIn="00:07:11:01" timeOut="00:07:13:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-This is your Uncle Chris.</add>
+        <add horPos="C" verPos="12" color="white">-Hey, Pete.</add>
+      </textRows>
+    </record>
+    <record xml:id="record60" timeIn="00:07:13:16" timeOut="00:07:15:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sit down. Say hello.</add>
+      </textRows>
+    </record>
+    <record xml:id="record61" timeIn="00:07:15:06" timeOut="00:07:17:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Last time he saw you,</add>
+        <add horPos="C" verPos="12" color="white">you were barely walking.</add>
+      </textRows>
+    </record>
+    <record xml:id="record62" timeIn="00:07:17:08" timeOut="00:07:20:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-And now I&apos;m camping.</add>
+        <add horPos="C" verPos="12" color="white">-I said you could sleep on the couch.</add>
+      </textRows>
+    </record>
+    <record xml:id="record63" timeIn="00:07:20:04" timeOut="00:07:21:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">It was Chris&apos; room first.</add>
+      </textRows>
+    </record>
+    <record xml:id="record64" timeIn="00:07:21:16" timeOut="00:07:24:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Your tent&apos;s going to take on water.</add>
+        <add horPos="C" verPos="12" color="white">I can show you how to rig it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record65" timeIn="00:07:24:11" timeOut="00:07:26:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Doesn&apos;t look like it&apos;s going to rain</add>
+        <add horPos="C" verPos="12" color="white">to me, Colonel.</add>
+      </textRows>
+    </record>
+    <record xml:id="record66" timeIn="00:07:27:00" timeOut="00:07:28:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sit down. Eat something.</add>
+      </textRows>
+    </record>
+    <record xml:id="record67" timeIn="00:07:28:08" timeOut="00:07:30:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">First of all, I was a sergeant.</add>
+        <add horPos="C" verPos="12" color="white">I worked for a living.</add>
+      </textRows>
+    </record>
+    <record xml:id="record68" timeIn="00:07:30:20" timeOut="00:07:32:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">A grunt.</add>
+      </textRows>
+    </record>
+    <record xml:id="record69" timeIn="00:07:32:23" timeOut="00:07:35:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Did you ever smoke anybody?</add>
+        <add horPos="C" verPos="12" color="white">-Pete!</add>
+      </textRows>
+    </record>
+    <record xml:id="record70" timeIn="00:07:37:05" timeOut="00:07:40:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Poppa&apos;s still got your gun locked up</add>
+        <add horPos="C" verPos="12" color="white">in the garage.</add>
+      </textRows>
+    </record>
+    <record xml:id="record71" timeIn="00:07:40:10" timeOut="00:07:44:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Would you teach me how to shoot?</add>
+        <add horPos="C" verPos="12" color="white">-I figured that&apos;d be scrap metal by now.</add>
+      </textRows>
+    </record>
+    <record xml:id="record72" timeIn="00:07:44:01" timeOut="00:07:47:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">No. I&apos;m still hoping</add>
+        <add horPos="C" verPos="12" color="white">you&apos;ll melt that thing down on your own.</add>
+      </textRows>
+    </record>
+    <record xml:id="record73" timeIn="00:07:47:22" timeOut="00:07:49:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Sorry, Pete.</add>
+        <add horPos="C" verPos="12" color="white">-Whatever.</add>
+      </textRows>
+    </record>
+    <record xml:id="record74" timeIn="00:07:50:02" timeOut="00:07:52:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;m out of here, Mom.</add>
+        <add horPos="C" verPos="12" color="white">-Be back by 10:00.</add>
+      </textRows>
+    </record>
+    <record xml:id="record75" timeIn="00:07:52:22" timeOut="00:07:54:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-10:30.</add>
+        <add horPos="C" verPos="12" color="white">-10:00.</add>
+      </textRows>
+    </record>
+    <record xml:id="record76" timeIn="00:07:54:11" timeOut="00:07:56:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Remind you of anyone?</add>
+      </textRows>
+    </record>
+    <record xml:id="record77" timeIn="00:08:45:01" timeOut="00:08:47:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Okay, it rained. Happy?</add>
+      </textRows>
+    </record>
+    <record xml:id="record78" timeIn="00:08:49:06" timeOut="00:08:50:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No.</add>
+      </textRows>
+    </record>
+    <record xml:id="record79" timeIn="00:08:53:20" timeOut="00:08:56:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Why don&apos;t you crash on the floor?</add>
+      </textRows>
+    </record>
+    <record xml:id="record80" timeIn="00:08:57:13" timeOut="00:09:00:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Okay. I&apos;ll crash on the floor.</add>
+        <add horPos="C" verPos="12" color="white">You crash on the bed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record81" timeIn="00:09:09:21" timeOut="00:09:11:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Keep you dry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record82" timeIn="00:09:14:00" timeOut="00:09:15:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Did you really kill people?</add>
+      </textRows>
+    </record>
+    <record xml:id="record83" timeIn="00:09:50:21" timeOut="00:09:52:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Ray-Ray.</add>
+        <add horPos="C" verPos="12" color="white">-Hello, pudding.</add>
+      </textRows>
+    </record>
+    <record xml:id="record84" timeIn="00:09:54:04" timeOut="00:09:56:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What&apos;s up, man?</add>
+        <add horPos="C" verPos="12" color="white">-Good to see you, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record85" timeIn="00:09:56:08" timeOut="00:09:58:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-How you doing?</add>
+        <add horPos="C" verPos="12" color="white">-I&apos;m all right.</add>
+      </textRows>
+    </record>
+    <record xml:id="record86" timeIn="00:09:59:20" timeOut="00:10:00:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What is that?</add>
+      </textRows>
+    </record>
+    <record xml:id="record87" timeIn="00:10:01:00" timeOut="00:10:04:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-That&apos;s the Love Machine.</add>
+        <add horPos="C" verPos="12" color="white">-Girls actually get in there?</add>
+      </textRows>
+    </record>
+    <record xml:id="record88" timeIn="00:10:07:12" timeOut="00:10:09:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-How you been?</add>
+        <add horPos="C" verPos="12" color="white">-Good.</add>
+      </textRows>
+    </record>
+    <record xml:id="record89" timeIn="00:10:09:23" timeOut="00:10:11:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Clean living?</add>
+        <add horPos="C" verPos="12" color="white">-Please. You want a beer?</add>
+      </textRows>
+    </record>
+    <record xml:id="record90" timeIn="00:10:11:23" timeOut="00:10:15:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">No. Believe it or not, I quit drinking.</add>
+        <add horPos="C" verPos="12" color="white">I&apos;d take a soda, though.</add>
+      </textRows>
+    </record>
+    <record xml:id="record91" timeIn="00:10:15:06" timeOut="00:10:16:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Okay. Here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record92" timeIn="00:10:17:00" timeOut="00:10:18:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Thanks, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record93" timeIn="00:10:20:07" timeOut="00:10:22:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Like that? When you left town,</add>
+      </textRows>
+    </record>
+    <record xml:id="record94" timeIn="00:10:22:17" timeOut="00:10:25:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">it gave me the idea I should do something</add>
+        <add horPos="C" verPos="12" color="white">with my life, too.</add>
+      </textRows>
+    </record>
+    <record xml:id="record95" timeIn="00:10:25:15" timeOut="00:10:29:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">So I went down to Seattle, got a guitar,</add>
+        <add horPos="C" verPos="12" color="white">and became all about music.</add>
+      </textRows>
+    </record>
+    <record xml:id="record96" timeIn="00:10:29:21" timeOut="00:10:33:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And then, pretty soon,</add>
+        <add horPos="C" verPos="12" color="white">I was about music and drugs,</add>
+      </textRows>
+    </record>
+    <record xml:id="record97" timeIn="00:10:33:04" timeOut="00:10:36:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">and pretty soon</add>
+        <add horPos="C" verPos="12" color="white">I was basically just about drugs</add>
+      </textRows>
+    </record>
+    <record xml:id="record98" timeIn="00:10:36:13" timeOut="00:10:39:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">and ended up doing two years for B and E.</add>
+      </textRows>
+    </record>
+    <record xml:id="record99" timeIn="00:10:41:03" timeOut="00:10:42:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m sorry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record100" timeIn="00:10:43:14" timeOut="00:10:47:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Look at me now, though, right?</add>
+        <add horPos="C" verPos="12" color="white">I&apos;ve been clean and sober 14 months.</add>
+      </textRows>
+    </record>
+    <record xml:id="record101" timeIn="00:10:47:10" timeOut="00:10:51:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Doing construction and renewing</add>
+        <add horPos="C" verPos="12" color="white">those supportive and healthy friendships</add>
+      </textRows>
+    </record>
+    <record xml:id="record102" timeIn="00:10:51:16" timeOut="00:10:52:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">from my past.</add>
+      </textRows>
+    </record>
+    <record xml:id="record103" timeIn="00:10:52:18" timeOut="00:10:56:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Matter of fact, I talked to the bastards,</add>
+        <add horPos="C" verPos="12" color="white">told them you were back,</add>
+      </textRows>
+    </record>
+    <record xml:id="record104" timeIn="00:10:56:04" timeOut="00:10:59:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">and they asked me</add>
+        <add horPos="C" verPos="12" color="white">to politely remind you that it is Saturday.</add>
+      </textRows>
+    </record>
+    <record xml:id="record105" timeIn="00:10:59:02" timeOut="00:11:01:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-As in…</add>
+        <add horPos="C" verPos="12" color="white">-As in, kick-off&apos;s in 20 minutes.</add>
+      </textRows>
+    </record>
+    <record xml:id="record106" timeIn="00:11:07:13" timeOut="00:11:09:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Like old times.</add>
+        <add horPos="C" verPos="12" color="white">-You guys still doing it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record107" timeIn="00:11:09:15" timeOut="00:11:10:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We&apos;re still doing it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record108" timeIn="00:11:10:17" timeOut="00:11:13:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Playing ball?</add>
+        <add horPos="C" verPos="12" color="white">-Absolutely. Let&apos;s go, superstar!</add>
+      </textRows>
+    </record>
+    <record xml:id="record109" timeIn="00:11:13:14" timeOut="00:11:16:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Just like the old days. Go deep.</add>
+        <add horPos="C" verPos="12" color="white">-Come on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record110" timeIn="00:11:18:23" timeOut="00:11:20:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">When did that happen?</add>
+      </textRows>
+    </record>
+    <record xml:id="record111" timeIn="00:11:20:12" timeOut="00:11:21:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Jay Hamilton Field.</add>
+      </textRows>
+    </record>
+    <record xml:id="record112" timeIn="00:11:21:17" timeOut="00:11:24:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">His parents hadn&apos;t left him the mill</add>
+        <add horPos="C" verPos="12" color="white">for more than two minutes</add>
+      </textRows>
+    </record>
+    <record xml:id="record113" timeIn="00:11:24:19" timeOut="00:11:26:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-before he shut it down.</add>
+        <add horPos="C" verPos="12" color="white">-Why?</add>
+      </textRows>
+    </record>
+    <record xml:id="record114" timeIn="00:11:27:17" timeOut="00:11:29:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Heads up!</add>
+      </textRows>
+    </record>
+    <record xml:id="record115" timeIn="00:11:29:05" timeOut="00:11:31:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Because I opened my casino.</add>
+      </textRows>
+    </record>
+    <record xml:id="record116" timeIn="00:11:31:23" timeOut="00:11:33:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Still got a gun, huh, Jay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record117" timeIn="00:11:33:21" timeOut="00:11:35:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Still got your reflexes.</add>
+      </textRows>
+    </record>
+    <record xml:id="record118" timeIn="00:11:35:20" timeOut="00:11:38:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">What? Did you get tired</add>
+        <add horPos="C" verPos="12" color="white">of being all that you could be?</add>
+      </textRows>
+    </record>
+    <record xml:id="record119" timeIn="00:11:38:12" timeOut="00:11:40:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-No. I&apos;m still all I can be.</add>
+        <add horPos="C" verPos="12" color="white">-Really?</add>
+      </textRows>
+    </record>
+    <record xml:id="record120" timeIn="00:11:40:16" timeOut="00:11:43:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;ll just have to see about that.</add>
+        <add horPos="C" verPos="12" color="white">-Yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record121" timeIn="00:11:43:20" timeOut="00:11:46:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What brings you home?</add>
+        <add horPos="C" verPos="12" color="white">-I just want to relax. Catch my breath.</add>
+      </textRows>
+    </record>
+    <record xml:id="record122" timeIn="00:11:46:19" timeOut="00:11:48:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You? Relax?</add>
+        <add horPos="C" verPos="12" color="white">-Yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record123" timeIn="00:11:52:17" timeOut="00:11:53:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Not today.</add>
+      </textRows>
+    </record>
+    <record xml:id="record124" timeIn="00:11:56:13" timeOut="00:11:58:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I got it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record125" timeIn="00:11:58:16" timeOut="00:12:00:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s go. Come on!</add>
+      </textRows>
+    </record>
+    <record xml:id="record126" timeIn="00:12:08:11" timeOut="00:12:10:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Is that how it&apos;s going to be?</add>
+      </textRows>
+    </record>
+    <record xml:id="record127" timeIn="00:12:10:19" timeOut="00:12:12:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s how it is.</add>
+      </textRows>
+    </record>
+    <record xml:id="record128" timeIn="00:12:12:07" timeOut="00:12:15:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Full contact, huh?</add>
+        <add horPos="C" verPos="12" color="white">-That&apos;s two-hand touch. Too rough?</add>
+      </textRows>
+    </record>
+    <record xml:id="record129" timeIn="00:12:15:08" timeOut="00:12:16:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sorry, ladies.</add>
+      </textRows>
+    </record>
+    <record xml:id="record130" timeIn="00:12:19:08" timeOut="00:12:20:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Pick up the outside!</add>
+      </textRows>
+    </record>
+    <record xml:id="record131" timeIn="00:12:23:20" timeOut="00:12:26:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Fumble!</add>
+        <add horPos="C" verPos="12" color="white">-Set!</add>
+      </textRows>
+    </record>
+    <record xml:id="record132" timeIn="00:12:28:14" timeOut="00:12:30:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">How&apos;s that for touch?</add>
+      </textRows>
+    </record>
+    <record xml:id="record133" timeIn="00:12:31:19" timeOut="00:12:34:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-That was pretty, wasn&apos;t it?</add>
+        <add horPos="C" verPos="12" color="white">-Want to go get your pads?</add>
+      </textRows>
+    </record>
+    <record xml:id="record134" timeIn="00:12:34:08" timeOut="00:12:35:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-That the best you got?</add>
+        <add horPos="C" verPos="12" color="white">-What?</add>
+      </textRows>
+    </record>
+    <record xml:id="record135" timeIn="00:12:35:17" timeOut="00:12:37:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Here, take a walk…</add>
+        <add horPos="C" verPos="12" color="white">-And knock a long loose?</add>
+      </textRows>
+    </record>
+    <record xml:id="record136" timeIn="00:12:37:19" timeOut="00:12:39:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Touchdown.</add>
+        <add horPos="C" verPos="12" color="white">-First and your last.</add>
+      </textRows>
+    </record>
+    <record xml:id="record137" timeIn="00:12:48:00" timeOut="00:12:51:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You want to go?</add>
+        <add horPos="C" verPos="12" color="white">-Nobody&apos;s going. We&apos;re not going to go.</add>
+      </textRows>
+    </record>
+    <record xml:id="record138" timeIn="00:12:57:22" timeOut="00:12:59:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You almost caught it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record139" timeIn="00:13:04:02" timeOut="00:13:06:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-We stop them here, we win, right?</add>
+        <add horPos="C" verPos="12" color="white">-Right, boys, last play.</add>
+      </textRows>
+    </record>
+    <record xml:id="record140" timeIn="00:13:06:23" timeOut="00:13:09:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You know how I like winning.</add>
+        <add horPos="C" verPos="12" color="white">-We need to put this to rest.</add>
+      </textRows>
+    </record>
+    <record xml:id="record141" timeIn="00:13:09:20" timeOut="00:13:13:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I will take care of Ray.</add>
+        <add horPos="C" verPos="12" color="white">-You two cross. You stay in and block.</add>
+      </textRows>
+    </record>
+    <record xml:id="record142" timeIn="00:13:13:07" timeOut="00:13:15:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Booth? Isolate on Vaughn.</add>
+      </textRows>
+    </record>
+    <record xml:id="record143" timeIn="00:13:15:08" timeOut="00:13:17:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You two cross…</add>
+        <add horPos="C" verPos="12" color="white">-Just give me the ball.</add>
+      </textRows>
+    </record>
+    <record xml:id="record144" timeIn="00:13:17:07" timeOut="00:13:19:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Go low. Left knee.</add>
+        <add horPos="C" verPos="12" color="white">-All right, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record145" timeIn="00:13:19:20" timeOut="00:13:22:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You got it? On the first hut. Ready? Break!</add>
+      </textRows>
+    </record>
+    <record xml:id="record146" timeIn="00:13:24:00" timeOut="00:13:25:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Be strong.</add>
+      </textRows>
+    </record>
+    <record xml:id="record147" timeIn="00:13:28:05" timeOut="00:13:30:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">All right, Chris Vaughn. Last chance.</add>
+      </textRows>
+    </record>
+    <record xml:id="record148" timeIn="00:13:32:01" timeOut="00:13:34:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Black-nineteen! Black!</add>
+        <add horPos="C" verPos="12" color="white">-Watch the outside!</add>
+      </textRows>
+    </record>
+    <record xml:id="record149" timeIn="00:13:40:00" timeOut="00:13:41:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m open!</add>
+      </textRows>
+    </record>
+    <record xml:id="record150" timeIn="00:13:48:13" timeOut="00:13:49:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s game.</add>
+      </textRows>
+    </record>
+    <record xml:id="record151" timeIn="00:13:51:13" timeOut="00:13:52:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sorry about that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record152" timeIn="00:13:55:08" timeOut="00:13:56:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Cool, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record153" timeIn="00:14:02:14" timeOut="00:14:04:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Nice game, ladies.</add>
+      </textRows>
+    </record>
+    <record xml:id="record154" timeIn="00:14:04:16" timeOut="00:14:06:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What the hell was that?</add>
+      </textRows>
+    </record>
+    <record xml:id="record155" timeIn="00:14:13:07" timeOut="00:14:16:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">That was a great game, wasn&apos;t it?</add>
+        <add horPos="C" verPos="12" color="white">Is that the bad one?</add>
+      </textRows>
+    </record>
+    <record xml:id="record156" timeIn="00:14:18:12" timeOut="00:14:21:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Yeah, it was good.</add>
+        <add horPos="C" verPos="12" color="white">-Hey, welcome home.</add>
+      </textRows>
+    </record>
+    <record xml:id="record157" timeIn="00:14:22:13" timeOut="00:14:23:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Good to be back.</add>
+      </textRows>
+    </record>
+    <record xml:id="record158" timeIn="00:14:24:18" timeOut="00:14:26:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">See you around.</add>
+      </textRows>
+    </record>
+    <record xml:id="record159" timeIn="00:14:26:20" timeOut="00:14:30:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">If you&apos;re not doing anything later on,</add>
+        <add horPos="C" verPos="12" color="white">want to come by the casino?</add>
+      </textRows>
+    </record>
+    <record xml:id="record160" timeIn="00:14:30:08" timeOut="00:14:34:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Introduce you to some nice girls.</add>
+        <add horPos="C" verPos="12" color="white">Drinks are on me. What do you say?</add>
+      </textRows>
+    </record>
+    <record xml:id="record161" timeIn="00:14:38:04" timeOut="00:14:39:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-See you tonight.</add>
+        <add horPos="C" verPos="12" color="white">-Cool.</add>
+      </textRows>
+    </record>
+    <record xml:id="record162" timeIn="00:14:40:03" timeOut="00:14:41:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;ll see you later on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record163" timeIn="00:14:45:06" timeOut="00:14:46:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Be good.</add>
+      </textRows>
+    </record>
+    <record xml:id="record164" timeIn="00:14:51:10" timeOut="00:14:54:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hey, Sarge. Good game. Maybe next time.</add>
+      </textRows>
+    </record>
+    <record xml:id="record165" timeIn="00:14:56:14" timeOut="00:14:57:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hold up.</add>
+      </textRows>
+    </record>
+    <record xml:id="record166" timeIn="00:15:00:07" timeOut="00:15:03:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Maybe next time I won&apos;t see you</add>
+        <add horPos="C" verPos="12" color="white">in the bleachers, smoking weed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record167" timeIn="00:15:13:07" timeOut="00:15:14:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Welcome home, buddy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record168" timeIn="00:15:16:23" timeOut="00:15:19:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I thought you had to be Native American</add>
+        <add horPos="C" verPos="12" color="white">to own a casino.</add>
+      </textRows>
+    </record>
+    <record xml:id="record169" timeIn="00:15:19:13" timeOut="00:15:22:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hamilton&apos;s one-sixteenth Blackfoot now.</add>
+        <add horPos="C" verPos="12" color="white">-Put it on his application.</add>
+      </textRows>
+    </record>
+    <record xml:id="record170" timeIn="00:15:22:21" timeOut="00:15:26:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And what he slid under the table</add>
+        <add horPos="C" verPos="12" color="white">convinced the powers that be it was true.</add>
+      </textRows>
+    </record>
+    <record xml:id="record171" timeIn="00:15:26:11" timeOut="00:15:30:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-It&apos;s ours for the taking tonight.</add>
+        <add horPos="C" verPos="12" color="white">-Let&apos;s pick some cherries, boys.</add>
+      </textRows>
+    </record>
+    <record xml:id="record172" timeIn="00:15:30:07" timeOut="00:15:32:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Here we go.</add>
+        <add horPos="C" verPos="12" color="white">-I&apos;m feeling lucky.</add>
+      </textRows>
+    </record>
+    <record xml:id="record173" timeIn="00:15:32:18" timeOut="00:15:35:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Just so you guys know,</add>
+        <add horPos="C" verPos="12" color="white">I&apos;m done after I triple my money.</add>
+      </textRows>
+    </record>
+    <record xml:id="record174" timeIn="00:15:35:17" timeOut="00:15:37:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s what you said last time.</add>
+      </textRows>
+    </record>
+    <record xml:id="record175" timeIn="00:15:37:18" timeOut="00:15:39:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You wound up selling your body</add>
+        <add horPos="C" verPos="12" color="white">for bus fare.</add>
+      </textRows>
+    </record>
+    <record xml:id="record176" timeIn="00:15:39:19" timeOut="00:15:41:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He had to walk.</add>
+      </textRows>
+    </record>
+    <record xml:id="record177" timeIn="00:15:41:09" timeOut="00:15:43:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Nobody&apos;s going to have any problems</add>
+        <add horPos="C" verPos="12" color="white">finding this place.</add>
+      </textRows>
+    </record>
+    <record xml:id="record178" timeIn="00:15:44:00" timeOut="00:15:47:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">It&apos;s the subtle attention to aesthetics</add>
+        <add horPos="C" verPos="12" color="white">that I find most impressive.</add>
+      </textRows>
+    </record>
+    <record xml:id="record179" timeIn="00:15:47:19" timeOut="00:15:50:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Blends in with the mountain so nicely.</add>
+      </textRows>
+    </record>
+    <record xml:id="record180" timeIn="00:15:51:14" timeOut="00:15:54:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hi there.</add>
+        <add horPos="C" verPos="12" color="white">-Hi. How you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record181" timeIn="00:15:58:18" timeOut="00:16:01:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-See? Not bad, huh?</add>
+        <add horPos="C" verPos="12" color="white">-It&apos;s not bad.</add>
+      </textRows>
+    </record>
+    <record xml:id="record182" timeIn="00:16:01:14" timeOut="00:16:04:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">A lot of pretty girls.</add>
+        <add horPos="C" verPos="12" color="white">I&apos;m getting chips. Let&apos;s gamble.</add>
+      </textRows>
+    </record>
+    <record xml:id="record183" timeIn="00:16:04:05" timeOut="00:16:06:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We&apos;ll see you at the Shower Tower, okay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record184" timeIn="00:16:08:08" timeOut="00:16:12:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Isn&apos;t it wonderful? All your gambling needs</add>
+        <add horPos="C" verPos="12" color="white">under one great, big roof.</add>
+      </textRows>
+    </record>
+    <record xml:id="record185" timeIn="00:16:12:18" timeOut="00:16:16:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You got your ATM machines,</add>
+        <add horPos="C" verPos="12" color="white">tellers to cash your paycheck,</add>
+      </textRows>
+    </record>
+    <record xml:id="record186" timeIn="00:16:16:16" timeOut="00:16:19:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">and when you&apos;re here,</add>
+        <add horPos="C" verPos="12" color="white">you don&apos;t got to worry about things,</add>
+      </textRows>
+    </record>
+    <record xml:id="record187" timeIn="00:16:19:11" timeOut="00:16:23:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">like child support, rent,</add>
+        <add horPos="C" verPos="12" color="white">laws of mathematical probability.</add>
+      </textRows>
+    </record>
+    <record xml:id="record188" timeIn="00:16:30:03" timeOut="00:16:33:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Gentlemen, Mr. Hamilton would like</add>
+        <add horPos="C" verPos="12" color="white">to invite you to the VIP lounge.</add>
+      </textRows>
+    </record>
+    <record xml:id="record189" timeIn="00:16:43:02" timeOut="00:16:46:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-The dream team. You all healed up?</add>
+        <add horPos="C" verPos="12" color="white">-Nice place.</add>
+      </textRows>
+    </record>
+    <record xml:id="record190" timeIn="00:16:46:23" timeOut="00:16:48:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Welcome to my world.</add>
+      </textRows>
+    </record>
+    <record xml:id="record191" timeIn="00:16:48:09" timeOut="00:16:52:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Tonight all the drinks are on the house.</add>
+        <add horPos="C" verPos="12" color="white">If you need a line of credit, say how much.</add>
+      </textRows>
+    </record>
+    <record xml:id="record192" timeIn="00:16:52:15" timeOut="00:16:55:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">If you need</add>
+        <add horPos="C" verPos="12" color="white">a little female companionship, done.</add>
+      </textRows>
+    </record>
+    <record xml:id="record193" timeIn="00:16:55:23" timeOut="00:16:57:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">All right?</add>
+      </textRows>
+    </record>
+    <record xml:id="record194" timeIn="00:16:57:02" timeOut="00:16:59:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Get inside. Have a good time.</add>
+        <add horPos="C" verPos="12" color="white">-Where you going?</add>
+      </textRows>
+    </record>
+    <record xml:id="record195" timeIn="00:17:00:00" timeOut="00:17:03:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Don&apos;t you worry about me.</add>
+        <add horPos="C" verPos="12" color="white">I got a few things to do. Enjoy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record196" timeIn="00:17:05:12" timeOut="00:17:08:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Just remember,</add>
+        <add horPos="C" verPos="12" color="white">nothing in here is free. Ma&apos;am.</add>
+      </textRows>
+    </record>
+    <record xml:id="record197" timeIn="00:17:10:04" timeOut="00:17:12:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Cherry shot?</add>
+        <add horPos="C" verPos="12" color="white">-Ray, be nice.</add>
+      </textRows>
+    </record>
+    <record xml:id="record198" timeIn="00:17:12:09" timeOut="00:17:14:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Come on, this place is nothing</add>
+        <add horPos="C" verPos="12" color="white">but fake boobs</add>
+      </textRows>
+    </record>
+    <record xml:id="record199" timeIn="00:17:14:18" timeOut="00:17:17:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">and real assholes, if you ask me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record200" timeIn="00:17:17:06" timeOut="00:17:18:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Just water for me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record201" timeIn="00:17:18:10" timeOut="00:17:21:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Drink up. We got money to win</add>
+        <add horPos="C" verPos="12" color="white">and girls just waiting.</add>
+      </textRows>
+    </record>
+    <record xml:id="record202" timeIn="00:17:21:05" timeOut="00:17:23:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-We are VIPs.</add>
+        <add horPos="C" verPos="12" color="white">-Here&apos;s to you, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record203" timeIn="00:17:23:04" timeOut="00:17:24:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Welcome home.</add>
+        <add horPos="C" verPos="12" color="white">-Cheers.</add>
+      </textRows>
+    </record>
+    <record xml:id="record204" timeIn="00:17:26:07" timeOut="00:17:27:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s play, boys.</add>
+      </textRows>
+    </record>
+    <record xml:id="record205" timeIn="00:17:28:14" timeOut="00:17:30:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Go right ahead.</add>
+      </textRows>
+    </record>
+    <record xml:id="record206" timeIn="00:17:30:20" timeOut="00:17:32:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Already lost $1…</add>
+      </textRows>
+    </record>
+    <record xml:id="record207" timeIn="00:17:32:06" timeOut="00:17:33:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Good night.</add>
+      </textRows>
+    </record>
+    <record xml:id="record208" timeIn="00:17:33:16" timeOut="00:17:36:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Okay. Don&apos;t say we never did nothing</add>
+        <add horPos="C" verPos="12" color="white">for you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record209" timeIn="00:17:37:18" timeOut="00:17:40:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Don&apos;t worry, buddy,</add>
+        <add horPos="C" verPos="12" color="white">everybody&apos;s scared their first time.</add>
+      </textRows>
+    </record>
+    <record xml:id="record210" timeIn="00:17:40:12" timeOut="00:17:42:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Come on.</add>
+        <add horPos="C" verPos="12" color="white">-Get in there, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record211" timeIn="00:17:43:23" timeOut="00:17:46:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Okay, just sit back and enjoy it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record212" timeIn="00:17:47:17" timeOut="00:17:50:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-This&apos;ll get you started.</add>
+        <add horPos="C" verPos="12" color="white">-If you&apos;re not back by morning</add>
+      </textRows>
+    </record>
+    <record xml:id="record213" timeIn="00:17:50:12" timeOut="00:17:51:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">we&apos;ll send a search party.</add>
+      </textRows>
+    </record>
+    <record xml:id="record214" timeIn="00:17:51:23" timeOut="00:17:53:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Have fun.</add>
+        <add horPos="C" verPos="12" color="white">-Stop drinking.</add>
+      </textRows>
+    </record>
+    <record xml:id="record215" timeIn="00:19:04:19" timeOut="00:19:07:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You from here, or are you just visiting?</add>
+      </textRows>
+    </record>
+    <record xml:id="record216" timeIn="00:19:11:05" timeOut="00:19:12:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">A little of both.</add>
+      </textRows>
+    </record>
+    <record xml:id="record217" timeIn="00:19:14:12" timeOut="00:19:15:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I grew up here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record218" timeIn="00:19:17:20" timeOut="00:19:20:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">So you&apos;re seeing all the old faces.</add>
+      </textRows>
+    </record>
+    <record xml:id="record219" timeIn="00:19:21:08" timeOut="00:19:22:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You could say that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record220" timeIn="00:19:32:02" timeOut="00:19:34:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Your voice sounds very familiar.</add>
+      </textRows>
+    </record>
+    <record xml:id="record221" timeIn="00:19:41:00" timeOut="00:19:42:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record222" timeIn="00:19:43:05" timeOut="00:19:44:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Deni.</add>
+      </textRows>
+    </record>
+    <record xml:id="record223" timeIn="00:20:05:04" timeOut="00:20:07:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Look who&apos;s back.</add>
+        <add horPos="C" verPos="12" color="white">-So, good surprise?</add>
+      </textRows>
+    </record>
+    <record xml:id="record224" timeIn="00:20:07:18" timeOut="00:20:12:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I told you it was better than gambling.</add>
+        <add horPos="C" verPos="12" color="white">You met Candi?</add>
+      </textRows>
+    </record>
+    <record xml:id="record225" timeIn="00:20:12:04" timeOut="00:20:14:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hello.</add>
+        <add horPos="C" verPos="12" color="white">-Hey, Candi.</add>
+      </textRows>
+    </record>
+    <record xml:id="record226" timeIn="00:20:15:22" timeOut="00:20:16:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s go.</add>
+      </textRows>
+    </record>
+    <record xml:id="record227" timeIn="00:20:17:19" timeOut="00:20:19:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Six, easy six. Looking for a six to win.</add>
+      </textRows>
+    </record>
+    <record xml:id="record228" timeIn="00:20:19:20" timeOut="00:20:21:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We can do a six. Can we do a six?</add>
+      </textRows>
+    </record>
+    <record xml:id="record229" timeIn="00:20:21:22" timeOut="00:20:23:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I think I can do a six, right?</add>
+      </textRows>
+    </record>
+    <record xml:id="record230" timeIn="00:20:24:08" timeOut="00:20:27:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We got liftoff! Whack it, boys. Whack it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record231" timeIn="00:20:28:07" timeOut="00:20:30:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Blue or pink, what do you think?</add>
+      </textRows>
+    </record>
+    <record xml:id="record232" timeIn="00:20:33:03" timeOut="00:20:34:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Who&apos;s up for two out of three?</add>
+      </textRows>
+    </record>
+    <record xml:id="record233" timeIn="00:20:34:20" timeOut="00:20:37:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;m getting killed. Let me have a C-note</add>
+        <add horPos="C" verPos="12" color="white">to put $200 on a bet.</add>
+      </textRows>
+    </record>
+    <record xml:id="record234" timeIn="00:20:37:19" timeOut="00:20:38:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-No.</add>
+        <add horPos="C" verPos="12" color="white">-Come on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record235" timeIn="00:20:38:20" timeOut="00:20:40:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hell, no.</add>
+      </textRows>
+    </record>
+    <record xml:id="record236" timeIn="00:20:40:06" timeOut="00:20:41:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Look at them.</add>
+      </textRows>
+    </record>
+    <record xml:id="record237" timeIn="00:20:43:04" timeOut="00:20:44:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He&apos;s hot.</add>
+      </textRows>
+    </record>
+    <record xml:id="record238" timeIn="00:20:45:09" timeOut="00:20:48:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-That&apos;s what I&apos;m talking about.</add>
+        <add horPos="C" verPos="12" color="white">-Give me a hard six.</add>
+      </textRows>
+    </record>
+    <record xml:id="record239" timeIn="00:20:49:04" timeOut="00:20:50:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-$5, hard six?</add>
+        <add horPos="C" verPos="12" color="white">-Yes.</add>
+      </textRows>
+    </record>
+    <record xml:id="record240" timeIn="00:20:50:09" timeOut="00:20:53:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;m in.</add>
+        <add horPos="C" verPos="12" color="white">-Hard six. $5 on hard six.</add>
+      </textRows>
+    </record>
+    <record xml:id="record241" timeIn="00:20:53:04" timeOut="00:20:55:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">There&apos;s another $100. Boom.</add>
+        <add horPos="C" verPos="12" color="white">Give me some dice.</add>
+      </textRows>
+    </record>
+    <record xml:id="record242" timeIn="00:20:56:00" timeOut="00:20:58:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Looking for a six.</add>
+      </textRows>
+    </record>
+    <record xml:id="record243" timeIn="00:20:58:10" timeOut="00:21:00:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">All right. Oh, please. Please.</add>
+      </textRows>
+    </record>
+    <record xml:id="record244" timeIn="00:21:01:12" timeOut="00:21:03:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Thank you. And you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record245" timeIn="00:21:04:12" timeOut="00:21:06:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Jimmy, don&apos;t roll. Give me the dice.</add>
+        <add horPos="C" verPos="12" color="white">-No, I got it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record246" timeIn="00:21:07:00" timeOut="00:21:09:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hard six, six. Looking for a six.</add>
+      </textRows>
+    </record>
+    <record xml:id="record247" timeIn="00:21:10:13" timeOut="00:21:13:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Seven out. Line in, the dark side wins.</add>
+      </textRows>
+    </record>
+    <record xml:id="record248" timeIn="00:21:13:18" timeOut="00:21:15:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Last come&apos;ll get you some.</add>
+      </textRows>
+    </record>
+    <record xml:id="record249" timeIn="00:21:18:22" timeOut="00:21:22:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You&apos;re good. But I saw it.</add>
+        <add horPos="C" verPos="12" color="white">-Saw what?</add>
+      </textRows>
+    </record>
+    <record xml:id="record250" timeIn="00:21:23:19" timeOut="00:21:25:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I saw the switch.</add>
+      </textRows>
+    </record>
+    <record xml:id="record251" timeIn="00:21:25:16" timeOut="00:21:27:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This is a clean game, asshole.</add>
+      </textRows>
+    </record>
+    <record xml:id="record252" timeIn="00:21:29:01" timeOut="00:21:30:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s see about that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record253" timeIn="00:21:33:07" timeOut="00:21:35:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Bet you&apos;ll roll a seven.</add>
+      </textRows>
+    </record>
+    <record xml:id="record254" timeIn="00:21:37:14" timeOut="00:21:39:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">It&apos;s not your roll, sir.</add>
+      </textRows>
+    </record>
+    <record xml:id="record255" timeIn="00:21:41:18" timeOut="00:21:43:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sir, it&apos;s not your roll.</add>
+      </textRows>
+    </record>
+    <record xml:id="record256" timeIn="00:21:43:18" timeOut="00:21:45:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Will you call security?</add>
+      </textRows>
+    </record>
+    <record xml:id="record257" timeIn="00:21:45:12" timeOut="00:21:47:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Put your bets down on the passline.</add>
+      </textRows>
+    </record>
+    <record xml:id="record258" timeIn="00:21:47:16" timeOut="00:21:50:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-These dice are coming up seven.</add>
+        <add horPos="C" verPos="12" color="white">-Why don&apos;t we just let it go?</add>
+      </textRows>
+    </record>
+    <record xml:id="record259" timeIn="00:21:50:14" timeOut="00:21:52:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No. We&apos;re going to let it ride, Jimmy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record260" timeIn="00:21:52:15" timeOut="00:21:54:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">The dice are coming up seven.</add>
+      </textRows>
+    </record>
+    <record xml:id="record261" timeIn="00:21:55:11" timeOut="00:21:58:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-It&apos;s not your roll, sir.</add>
+        <add horPos="C" verPos="12" color="white">-Come on, baby.</add>
+      </textRows>
+    </record>
+    <record xml:id="record262" timeIn="00:22:01:06" timeOut="00:22:03:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What a surprise.</add>
+        <add horPos="C" verPos="12" color="white">-No, folks. No payouts.</add>
+      </textRows>
+    </record>
+    <record xml:id="record263" timeIn="00:22:04:00" timeOut="00:22:05:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Wait a minute.</add>
+        <add horPos="C" verPos="12" color="white">-Calm down.</add>
+      </textRows>
+    </record>
+    <record xml:id="record264" timeIn="00:22:05:14" timeOut="00:22:07:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Just take care of that bet,</add>
+        <add horPos="C" verPos="12" color="white">then we&apos;re even.</add>
+      </textRows>
+    </record>
+    <record xml:id="record265" timeIn="00:22:07:19" timeOut="00:22:09:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I would, but it wasn&apos;t a legitimate bet.</add>
+      </textRows>
+    </record>
+    <record xml:id="record266" timeIn="00:22:09:16" timeOut="00:22:10:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re not the shooter.</add>
+      </textRows>
+    </record>
+    <record xml:id="record267" timeIn="00:22:10:18" timeOut="00:22:12:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Security.</add>
+        <add horPos="C" verPos="12" color="white">-It&apos;s not your roll, sir.</add>
+      </textRows>
+    </record>
+    <record xml:id="record268" timeIn="00:22:13:10" timeOut="00:22:17:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Is there a problem?</add>
+        <add horPos="C" verPos="12" color="white">-The problem is your dice are loaded.</add>
+      </textRows>
+    </record>
+    <record xml:id="record269" timeIn="00:22:18:06" timeOut="00:22:20:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Does your boss know about this?</add>
+      </textRows>
+    </record>
+    <record xml:id="record270" timeIn="00:22:21:03" timeOut="00:22:23:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Just give me my money.</add>
+      </textRows>
+    </record>
+    <record xml:id="record271" timeIn="00:22:30:23" timeOut="00:22:33:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come on. Let&apos;s go.</add>
+      </textRows>
+    </record>
+    <record xml:id="record272" timeIn="00:22:51:03" timeOut="00:22:53:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What now, bitch? Come on!</add>
+      </textRows>
+    </record>
+    <record xml:id="record273" timeIn="00:23:37:06" timeOut="00:23:38:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Special Forces.</add>
+      </textRows>
+    </record>
+    <record xml:id="record274" timeIn="00:23:39:12" timeOut="00:23:42:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Wow. I&apos;ll take that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record275" timeIn="00:23:52:18" timeOut="00:23:54:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What are you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record276" timeIn="00:23:58:21" timeOut="00:24:01:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Special Forces. Special treatment.</add>
+      </textRows>
+    </record>
+    <record xml:id="record277" timeIn="00:24:04:20" timeOut="00:24:06:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This guy knows Hamilton.</add>
+      </textRows>
+    </record>
+    <record xml:id="record278" timeIn="00:24:12:18" timeOut="00:24:16:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You just hold him down. Come on, Burke.</add>
+      </textRows>
+    </record>
+    <record xml:id="record279" timeIn="00:24:57:07" timeOut="00:24:58:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Folks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record280" timeIn="00:25:00:04" timeOut="00:25:02:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He&apos;s pretty banged up, inside and out.</add>
+      </textRows>
+    </record>
+    <record xml:id="record281" timeIn="00:25:03:05" timeOut="00:25:05:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Whoever did this left him for dead.</add>
+      </textRows>
+    </record>
+    <record xml:id="record282" timeIn="00:25:06:04" timeOut="00:25:08:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">A lesser man wouldn&apos;t have survived.</add>
+      </textRows>
+    </record>
+    <record xml:id="record283" timeIn="00:25:08:02" timeOut="00:25:11:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I need a statement from him, Doctor.</add>
+        <add horPos="C" verPos="12" color="white">-He&apos;s in no condition to give you one…</add>
+      </textRows>
+    </record>
+    <record xml:id="record284" timeIn="00:25:11:12" timeOut="00:25:14:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;ll also need a copy of your write-up,</add>
+        <add horPos="C" verPos="12" color="white">with toxicology</add>
+      </textRows>
+    </record>
+    <record xml:id="record285" timeIn="00:25:14:16" timeOut="00:25:17:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-and blood-alcohol level.</add>
+        <add horPos="C" verPos="12" color="white">-What are you talking about?</add>
+      </textRows>
+    </record>
+    <record xml:id="record286" timeIn="00:25:17:04" timeOut="00:25:18:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m just trying to get some facts.</add>
+      </textRows>
+    </record>
+    <record xml:id="record287" timeIn="00:25:18:20" timeOut="00:25:23:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You need to be arresting whoever tried</add>
+        <add horPos="C" verPos="12" color="white">to kill my brother, not testing his blood.</add>
+      </textRows>
+    </record>
+    <record xml:id="record288" timeIn="00:25:23:02" timeOut="00:25:26:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;m just doing my job, Michelle. Okay?</add>
+        <add horPos="C" verPos="12" color="white">I understand how you feel.</add>
+      </textRows>
+    </record>
+    <record xml:id="record289" timeIn="00:25:26:17" timeOut="00:25:28:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">But we still don&apos;t know</add>
+        <add horPos="C" verPos="12" color="white">who started all this.</add>
+      </textRows>
+    </record>
+    <record xml:id="record290" timeIn="00:25:28:20" timeOut="00:25:32:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-It wasn&apos;t Chris.</add>
+        <add horPos="C" verPos="12" color="white">-Just find out who did this to him, Stan.</add>
+      </textRows>
+    </record>
+    <record xml:id="record291" timeIn="00:25:32:15" timeOut="00:25:34:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;ll do my best, Mr. Vaughn. I really will.</add>
+      </textRows>
+    </record>
+    <record xml:id="record292" timeIn="00:25:35:00" timeOut="00:25:37:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">In the meantime I have to file a full report.</add>
+      </textRows>
+    </record>
+    <record xml:id="record293" timeIn="00:25:37:19" timeOut="00:25:41:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Will you let me know</add>
+        <add horPos="C" verPos="12" color="white">when I can talk to him? Thank you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record294" timeIn="00:25:45:19" timeOut="00:25:48:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-He&apos;s going to be fine, Michelle.</add>
+        <add horPos="C" verPos="12" color="white">-Thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record295" timeIn="00:26:11:08" timeOut="00:26:14:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Beautiful flowers.</add>
+        <add horPos="C" verPos="12" color="white">-Thank you. They&apos;re for my best friend.</add>
+      </textRows>
+    </record>
+    <record xml:id="record296" timeIn="00:26:16:00" timeOut="00:26:19:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hey, Sarge. So much for our VIP status.</add>
+      </textRows>
+    </record>
+    <record xml:id="record297" timeIn="00:26:25:06" timeOut="00:26:28:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Don&apos;t they teach you</add>
+        <add horPos="C" verPos="12" color="white">any basic fighting skills in the Army?</add>
+      </textRows>
+    </record>
+    <record xml:id="record298" timeIn="00:26:28:14" timeOut="00:26:29:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">How did you do?</add>
+      </textRows>
+    </record>
+    <record xml:id="record299" timeIn="00:26:29:18" timeOut="00:26:33:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Not good. But I tell you,</add>
+        <add horPos="C" verPos="12" color="white">that guy was feeling me this morning.</add>
+      </textRows>
+    </record>
+    <record xml:id="record300" timeIn="00:26:37:20" timeOut="00:26:41:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You okay?</add>
+        <add horPos="C" verPos="12" color="white">-That was a hell of a homecoming party.</add>
+      </textRows>
+    </record>
+    <record xml:id="record301" timeIn="00:26:42:05" timeOut="00:26:46:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Chris, I don&apos;t know if you noticed,</add>
+        <add horPos="C" verPos="12" color="white">but this ain&apos;t exactly home anymore.</add>
+      </textRows>
+    </record>
+    <record xml:id="record302" timeIn="00:27:04:03" timeOut="00:27:05:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hang on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record303" timeIn="00:27:08:09" timeOut="00:27:10:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let me help you. Come on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record304" timeIn="00:27:23:01" timeOut="00:27:24:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m good, Mom. I got it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record305" timeIn="00:27:27:23" timeOut="00:27:30:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Need some help?</add>
+        <add horPos="C" verPos="12" color="white">-No. I&apos;m just milking it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record306" timeIn="00:27:34:03" timeOut="00:27:36:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">There&apos;s some old crutches in the garage.</add>
+      </textRows>
+    </record>
+    <record xml:id="record307" timeIn="00:27:40:06" timeOut="00:27:43:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Thanks, Pete.</add>
+        <add horPos="C" verPos="12" color="white">-Crutches. That&apos;s nice.</add>
+      </textRows>
+    </record>
+    <record xml:id="record308" timeIn="00:27:56:02" timeOut="00:27:57:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Did you see the hole?</add>
+      </textRows>
+    </record>
+    <record xml:id="record309" timeIn="00:28:07:13" timeOut="00:28:09:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Mind if I watch TV?</add>
+        <add horPos="C" verPos="12" color="white">-No, that&apos;s cool.</add>
+      </textRows>
+    </record>
+    <record xml:id="record310" timeIn="00:28:13:01" timeOut="00:28:15:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Somebody&apos;s feeling better.</add>
+        <add horPos="C" verPos="12" color="white">-Little bit.</add>
+      </textRows>
+    </record>
+    <record xml:id="record311" timeIn="00:28:15:22" timeOut="00:28:16:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You make this?</add>
+      </textRows>
+    </record>
+    <record xml:id="record312" timeIn="00:28:17:00" timeOut="00:28:18:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Need anything?</add>
+      </textRows>
+    </record>
+    <record xml:id="record313" timeIn="00:28:18:05" timeOut="00:28:21:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Something wrong?</add>
+        <add horPos="C" verPos="12" color="white">-No, it&apos;s good, man. It&apos;s good.</add>
+      </textRows>
+    </record>
+    <record xml:id="record314" timeIn="00:28:21:16" timeOut="00:28:23:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No, I&apos;m good, Dad. Thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record315" timeIn="00:28:48:12" timeOut="00:28:51:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Changed the plugs a while back.</add>
+        <add horPos="C" verPos="12" color="white">-I appreciate that, Dad.</add>
+      </textRows>
+    </record>
+    <record xml:id="record316" timeIn="00:28:51:08" timeOut="00:28:54:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I might&apos;ve had serious issues</add>
+        <add horPos="C" verPos="12" color="white">with your career choice,</add>
+      </textRows>
+    </record>
+    <record xml:id="record317" timeIn="00:28:54:01" timeOut="00:28:57:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">but it just didn&apos;t seem fair</add>
+        <add horPos="C" verPos="12" color="white">to take it out on an innocent truck.</add>
+      </textRows>
+    </record>
+    <record xml:id="record318" timeIn="00:28:59:00" timeOut="00:29:00:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Where you headed?</add>
+      </textRows>
+    </record>
+    <record xml:id="record319" timeIn="00:29:00:04" timeOut="00:29:02:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I was going into town to get supplies.</add>
+        <add horPos="C" verPos="12" color="white">Want to come?</add>
+      </textRows>
+    </record>
+    <record xml:id="record320" timeIn="00:29:02:18" timeOut="00:29:03:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Let&apos;s go.</add>
+      </textRows>
+    </record>
+    <record xml:id="record321" timeIn="00:29:14:04" timeOut="00:29:17:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Your whole life,</add>
+        <add horPos="C" verPos="12" color="white">all you wanted to do was get out of here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record322" timeIn="00:29:17:21" timeOut="00:29:19:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What made you come back now?</add>
+      </textRows>
+    </record>
+    <record xml:id="record323" timeIn="00:29:20:17" timeOut="00:29:23:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re going to think I&apos;m crazy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record324" timeIn="00:29:23:12" timeOut="00:29:25:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I would think about the mill.</add>
+      </textRows>
+    </record>
+    <record xml:id="record325" timeIn="00:29:26:00" timeOut="00:29:30:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">When I was a kid going to visit you</add>
+        <add horPos="C" verPos="12" color="white">at work, the smell of that fresh-cut cedar…</add>
+      </textRows>
+    </record>
+    <record xml:id="record326" timeIn="00:29:32:08" timeOut="00:29:34:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You remember that smell.</add>
+      </textRows>
+    </record>
+    <record xml:id="record327" timeIn="00:29:35:12" timeOut="00:29:38:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I remember a lot of nice things</add>
+        <add horPos="C" verPos="12" color="white">before the mill closed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record328" timeIn="00:29:43:07" timeOut="00:29:45:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">When did they go out of business?</add>
+      </textRows>
+    </record>
+    <record xml:id="record329" timeIn="00:29:45:14" timeOut="00:29:47:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Closed about six months ago.</add>
+      </textRows>
+    </record>
+    <record xml:id="record330" timeIn="00:29:48:04" timeOut="00:29:50:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">There&apos;s a Home Depot</add>
+        <add horPos="C" verPos="12" color="white">about 15 minutes up the road.</add>
+      </textRows>
+    </record>
+    <record xml:id="record331" timeIn="00:29:52:12" timeOut="00:29:53:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">And that?</add>
+      </textRows>
+    </record>
+    <record xml:id="record332" timeIn="00:29:56:12" timeOut="00:29:57:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Don&apos;t ask.</add>
+      </textRows>
+    </record>
+    <record xml:id="record333" timeIn="00:30:16:04" timeOut="00:30:18:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">First of all, I just want to say thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record334" timeIn="00:30:20:00" timeOut="00:30:22:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-For what?</add>
+        <add horPos="C" verPos="12" color="white">-For making that stickman.</add>
+      </textRows>
+    </record>
+    <record xml:id="record335" timeIn="00:30:23:12" timeOut="00:30:26:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He&apos;s been fired</add>
+        <add horPos="C" verPos="12" color="white">and his gaming permit&apos;s been pulled.</add>
+      </textRows>
+    </record>
+    <record xml:id="record336" timeIn="00:30:26:22" timeOut="00:30:31:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I just have no idea why</add>
+        <add horPos="C" verPos="12" color="white">my security cameras didn&apos;t catch that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record337" timeIn="00:30:35:05" timeOut="00:30:37:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">They miss a lot in your place,</add>
+        <add horPos="C" verPos="12" color="white">don&apos;t they, Jay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record338" timeIn="00:30:38:20" timeOut="00:30:42:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Look, Chris, I hate seeing you like this.</add>
+        <add horPos="C" verPos="12" color="white">-Your boys did it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record339" timeIn="00:30:43:02" timeOut="00:30:44:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Wait a second.</add>
+      </textRows>
+    </record>
+    <record xml:id="record340" timeIn="00:30:46:02" timeOut="00:30:49:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">So they got a little rough.</add>
+        <add horPos="C" verPos="12" color="white">They&apos;re a bit edgy. Understandably.</add>
+      </textRows>
+    </record>
+    <record xml:id="record341" timeIn="00:30:49:06" timeOut="00:30:52:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You don&apos;t know what kind of assholes</add>
+        <add horPos="C" verPos="12" color="white">they have to put up with on a daily basis.</add>
+      </textRows>
+    </record>
+    <record xml:id="record342" timeIn="00:30:53:00" timeOut="00:30:55:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Look, they&apos;ve been reprimanded.</add>
+      </textRows>
+    </record>
+    <record xml:id="record343" timeIn="00:30:55:09" timeOut="00:30:57:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">But they say you went nuts, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record344" timeIn="00:30:57:04" timeOut="00:30:59:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m sorry. Insensitive.</add>
+      </textRows>
+    </record>
+    <record xml:id="record345" timeIn="00:30:59:07" timeOut="00:31:02:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I know the proper term that vets use</add>
+        <add horPos="C" verPos="12" color="white">is post-traumatic stress…</add>
+      </textRows>
+    </record>
+    <record xml:id="record346" timeIn="00:31:02:09" timeOut="00:31:05:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What the fuck you talking about?</add>
+        <add horPos="C" verPos="12" color="white">-Whatever. You tore my place apart,</add>
+      </textRows>
+    </record>
+    <record xml:id="record347" timeIn="00:31:05:12" timeOut="00:31:08:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">and it wasn&apos;t easy to get my guys</add>
+        <add horPos="C" verPos="12" color="white">to agree not to press charges.</add>
+      </textRows>
+    </record>
+    <record xml:id="record348" timeIn="00:31:08:16" timeOut="00:31:12:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Chris, if you had a problem,</add>
+        <add horPos="C" verPos="12" color="white">shouldn&apos;t you have come to me?</add>
+      </textRows>
+    </record>
+    <record xml:id="record349" timeIn="00:31:14:14" timeOut="00:31:16:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I want to bring you inside.</add>
+      </textRows>
+    </record>
+    <record xml:id="record350" timeIn="00:31:17:04" timeOut="00:31:19:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I want to make you head of security.</add>
+      </textRows>
+    </record>
+    <record xml:id="record351" timeIn="00:31:20:06" timeOut="00:31:23:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What do you say?</add>
+        <add horPos="C" verPos="12" color="white">-No.</add>
+      </textRows>
+    </record>
+    <record xml:id="record352" timeIn="00:31:31:06" timeOut="00:31:34:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I guess you probably need time</add>
+        <add horPos="C" verPos="12" color="white">to think about it. I figured as much.</add>
+      </textRows>
+    </record>
+    <record xml:id="record353" timeIn="00:31:38:00" timeOut="00:31:39:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This is for you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record354" timeIn="00:31:40:04" timeOut="00:31:43:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">It&apos;s a little something to help you get,</add>
+        <add horPos="C" verPos="12" color="white">you know…</add>
+      </textRows>
+    </record>
+    <record xml:id="record355" timeIn="00:31:45:03" timeOut="00:31:47:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come on, man, don&apos;t be like that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record356" timeIn="00:31:47:04" timeOut="00:31:51:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I came all the way out here to your house,</add>
+        <add horPos="C" verPos="12" color="white">just to see you get back on your feet.</add>
+      </textRows>
+    </record>
+    <record xml:id="record357" timeIn="00:31:52:09" timeOut="00:31:54:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m going to the sheriff.</add>
+      </textRows>
+    </record>
+    <record xml:id="record358" timeIn="00:31:56:00" timeOut="00:31:58:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m really sorry you feel that way.</add>
+      </textRows>
+    </record>
+    <record xml:id="record359" timeIn="00:32:01:07" timeOut="00:32:03:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;ll see you around, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record360" timeIn="00:32:16:14" timeOut="00:32:18:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I know, it was a good time, wasn&apos;t it?</add>
+      </textRows>
+    </record>
+    <record xml:id="record361" timeIn="00:32:22:08" timeOut="00:32:23:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Excuse me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record362" timeIn="00:32:24:15" timeOut="00:32:25:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Excuse me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record363" timeIn="00:32:27:00" timeOut="00:32:28:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I got to call you back.</add>
+      </textRows>
+    </record>
+    <record xml:id="record364" timeIn="00:32:30:11" timeOut="00:32:31:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hey, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record365" timeIn="00:32:32:06" timeOut="00:32:35:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">It&apos;s good to see you up and about.</add>
+        <add horPos="C" verPos="12" color="white">You&apos;re looking spiffy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record366" timeIn="00:32:35:06" timeOut="00:32:37:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m here to press charges.</add>
+      </textRows>
+    </record>
+    <record xml:id="record367" timeIn="00:32:37:18" timeOut="00:32:40:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">This isn&apos;t about that incident</add>
+        <add horPos="C" verPos="12" color="white">at the casino a while back?</add>
+      </textRows>
+    </record>
+    <record xml:id="record368" timeIn="00:32:40:18" timeOut="00:32:41:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Yeah. It is.</add>
+      </textRows>
+    </record>
+    <record xml:id="record369" timeIn="00:32:42:06" timeOut="00:32:44:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Because that matter&apos;s closed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record370" timeIn="00:32:44:21" timeOut="00:32:48:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You&apos;re lucky you weren&apos;t brought in</add>
+        <add horPos="C" verPos="12" color="white">on charges. I mean…</add>
+      </textRows>
+    </record>
+    <record xml:id="record371" timeIn="00:32:48:15" timeOut="00:32:50:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Did you even look into it?</add>
+      </textRows>
+    </record>
+    <record xml:id="record372" timeIn="00:32:51:01" timeOut="00:32:54:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">They did an internal investigation.</add>
+        <add horPos="C" verPos="12" color="white">That&apos;s good enough for me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record373" timeIn="00:32:54:19" timeOut="00:32:56:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">An internal investigation?</add>
+      </textRows>
+    </record>
+    <record xml:id="record374" timeIn="00:32:58:01" timeOut="00:33:01:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I know you&apos;re familiar</add>
+        <add horPos="C" verPos="12" color="white">with the term no-fly zone.</add>
+      </textRows>
+    </record>
+    <record xml:id="record375" timeIn="00:33:01:19" timeOut="00:33:03:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Because that&apos;s what the casino is.</add>
+      </textRows>
+    </record>
+    <record xml:id="record376" timeIn="00:33:04:04" timeOut="00:33:06:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Since the mill closed down,</add>
+      </textRows>
+    </record>
+    <record xml:id="record377" timeIn="00:33:06:14" timeOut="00:33:10:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">that casino is the main source</add>
+        <add horPos="C" verPos="12" color="white">of revenue in this town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record378" timeIn="00:33:10:04" timeOut="00:33:13:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">So case closed, basically.</add>
+      </textRows>
+    </record>
+    <record xml:id="record379" timeIn="00:33:15:00" timeOut="00:33:16:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We&apos;ll see you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record380" timeIn="00:33:17:08" timeOut="00:33:21:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;m not going to let this stand.</add>
+        <add horPos="C" verPos="12" color="white">-Excuse me?</add>
+      </textRows>
+    </record>
+    <record xml:id="record381" timeIn="00:33:29:00" timeOut="00:33:33:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What did you say to me?</add>
+        <add horPos="C" verPos="12" color="white">-I said I&apos;m not going to let this stand.</add>
+      </textRows>
+    </record>
+    <record xml:id="record382" timeIn="00:33:35:02" timeOut="00:33:39:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You&apos;re lucky to be alive right now.</add>
+        <add horPos="C" verPos="12" color="white">That&apos;s all you need to be concentrating on.</add>
+      </textRows>
+    </record>
+    <record xml:id="record383" timeIn="00:33:40:03" timeOut="00:33:42:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This is my town. Okay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record384" timeIn="00:33:42:22" timeOut="00:33:44:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m the sheriff here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record385" timeIn="00:33:44:13" timeOut="00:33:47:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;ll tell you what will stand.</add>
+        <add horPos="C" verPos="12" color="white">Not the other way around.</add>
+      </textRows>
+    </record>
+    <record xml:id="record386" timeIn="00:33:50:07" timeOut="00:33:52:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Now please get out of my building.</add>
+      </textRows>
+    </record>
+    <record xml:id="record387" timeIn="00:34:14:14" timeOut="00:34:16:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Come in.</add>
+        <add horPos="C" verPos="12" color="white">-Thanks.</add>
+      </textRows>
+    </record>
+    <record xml:id="record388" timeIn="00:34:17:13" timeOut="00:34:19:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This belongs to you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record389" timeIn="00:34:21:08" timeOut="00:34:23:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I appreciate that.</add>
+        <add horPos="C" verPos="12" color="white">I thought this was history.</add>
+      </textRows>
+    </record>
+    <record xml:id="record390" timeIn="00:34:23:20" timeOut="00:34:26:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Could have left it in the trash, but I…</add>
+        <add horPos="C" verPos="12" color="white">-Deni?</add>
+      </textRows>
+    </record>
+    <record xml:id="record391" timeIn="00:34:26:14" timeOut="00:34:29:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Nice to see you, dear.</add>
+        <add horPos="C" verPos="12" color="white">-Hi, Mrs. Vaughn.</add>
+      </textRows>
+    </record>
+    <record xml:id="record392" timeIn="00:34:32:23" timeOut="00:34:35:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Can I talk to you outside for a second?</add>
+      </textRows>
+    </record>
+    <record xml:id="record393" timeIn="00:34:35:09" timeOut="00:34:37:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Quick walk. Mom, I&apos;ll be right back.</add>
+      </textRows>
+    </record>
+    <record xml:id="record394" timeIn="00:34:42:05" timeOut="00:34:45:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-How you been?</add>
+        <add horPos="C" verPos="12" color="white">-Been better.</add>
+      </textRows>
+    </record>
+    <record xml:id="record395" timeIn="00:34:46:14" timeOut="00:34:48:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Talk to the sheriff yet?</add>
+      </textRows>
+    </record>
+    <record xml:id="record396" timeIn="00:34:48:12" timeOut="00:34:51:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I went down to the police station.</add>
+        <add horPos="C" verPos="12" color="white">I talked to somebody with a badge.</add>
+      </textRows>
+    </record>
+    <record xml:id="record397" timeIn="00:34:51:21" timeOut="00:34:54:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He sure as hell didn&apos;t seem</add>
+        <add horPos="C" verPos="12" color="white">like much of a sheriff.</add>
+      </textRows>
+    </record>
+    <record xml:id="record398" timeIn="00:34:55:09" timeOut="00:34:57:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He&apos;s up for reelection, you know.</add>
+      </textRows>
+    </record>
+    <record xml:id="record399" timeIn="00:34:57:11" timeOut="00:35:01:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Maybe you could take his job.</add>
+        <add horPos="C" verPos="12" color="white">-Somebody ought to.</add>
+      </textRows>
+    </record>
+    <record xml:id="record400" timeIn="00:35:03:15" timeOut="00:35:05:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">How about you?</add>
+      </textRows>
+    </record>
+    <record xml:id="record401" timeIn="00:35:06:12" timeOut="00:35:09:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Nothing but sunshine and pine trees.</add>
+      </textRows>
+    </record>
+    <record xml:id="record402" timeIn="00:35:09:02" timeOut="00:35:10:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Been reading these books.</add>
+      </textRows>
+    </record>
+    <record xml:id="record403" timeIn="00:35:10:10" timeOut="00:35:13:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Teach you how to cultivate</add>
+        <add horPos="C" verPos="12" color="white">your happiness. Focus on the future.</add>
+      </textRows>
+    </record>
+    <record xml:id="record404" timeIn="00:35:13:10" timeOut="00:35:16:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Go with the flow, that sort of thing.</add>
+        <add horPos="C" verPos="12" color="white">-Is it working?</add>
+      </textRows>
+    </record>
+    <record xml:id="record405" timeIn="00:35:17:00" timeOut="00:35:18:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I have my moments.</add>
+      </textRows>
+    </record>
+    <record xml:id="record406" timeIn="00:35:20:14" timeOut="00:35:22:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">So, the casino, huh?</add>
+      </textRows>
+    </record>
+    <record xml:id="record407" timeIn="00:35:22:21" timeOut="00:35:26:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Yeah. Been there almost a year.</add>
+      </textRows>
+    </record>
+    <record xml:id="record408" timeIn="00:35:26:11" timeOut="00:35:29:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Treating you good?</add>
+        <add horPos="C" verPos="12" color="white">-A lot better than it treated you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record409" timeIn="00:35:32:11" timeOut="00:35:33:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I like that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record410" timeIn="00:35:35:02" timeOut="00:35:37:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Jay Hamilton&apos;s done well for himself,</add>
+        <add horPos="C" verPos="12" color="white">hasn&apos;t he?</add>
+      </textRows>
+    </record>
+    <record xml:id="record411" timeIn="00:35:37:10" timeOut="00:35:39:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He&apos;s a real go-getter, that one.</add>
+      </textRows>
+    </record>
+    <record xml:id="record412" timeIn="00:35:40:10" timeOut="00:35:42:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He must be. I heard he got you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record413" timeIn="00:35:44:22" timeOut="00:35:48:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">That lasted about eight minutes.</add>
+        <add horPos="C" verPos="12" color="white">It was a long time ago.</add>
+      </textRows>
+    </record>
+    <record xml:id="record414" timeIn="00:35:51:16" timeOut="00:35:53:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You still work for him, though.</add>
+      </textRows>
+    </record>
+    <record xml:id="record415" timeIn="00:35:54:09" timeOut="00:35:56:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Rent&apos;s got to be paid, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record416" timeIn="00:35:57:13" timeOut="00:35:58:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I suppose so.</add>
+      </textRows>
+    </record>
+    <record xml:id="record417" timeIn="00:36:01:02" timeOut="00:36:03:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hope to see you around.</add>
+        <add horPos="C" verPos="12" color="white">-Do you?</add>
+      </textRows>
+    </record>
+    <record xml:id="record418" timeIn="00:36:17:20" timeOut="00:36:19:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Thanks for the jacket.</add>
+      </textRows>
+    </record>
+    <record xml:id="record419" timeIn="00:36:22:17" timeOut="00:36:24:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">And where is he?</add>
+      </textRows>
+    </record>
+    <record xml:id="record420" timeIn="00:36:38:22" timeOut="00:36:40:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">It&apos;s okay, Mom. He&apos;s stabilized.</add>
+      </textRows>
+    </record>
+    <record xml:id="record421" timeIn="00:36:43:00" timeOut="00:36:44:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">It was close.</add>
+      </textRows>
+    </record>
+    <record xml:id="record422" timeIn="00:36:44:16" timeOut="00:36:45:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Crystal meth.</add>
+      </textRows>
+    </record>
+    <record xml:id="record423" timeIn="00:36:46:00" timeOut="00:36:48:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m sorry. I never did it before.</add>
+      </textRows>
+    </record>
+    <record xml:id="record424" timeIn="00:36:48:12" timeOut="00:36:51:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">It&apos;s true.</add>
+        <add horPos="C" verPos="12" color="white">We might&apos;ve kind of pushed him into it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record425" timeIn="00:36:56:22" timeOut="00:36:59:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Where&apos;d you get the drugs?</add>
+        <add horPos="C" verPos="12" color="white">-I&apos;m not really sure…</add>
+      </textRows>
+    </record>
+    <record xml:id="record426" timeIn="00:36:59:13" timeOut="00:37:00:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Stop.</add>
+      </textRows>
+    </record>
+    <record xml:id="record427" timeIn="00:37:02:12" timeOut="00:37:04:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Where?</add>
+      </textRows>
+    </record>
+    <record xml:id="record428" timeIn="00:37:04:11" timeOut="00:37:07:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">From the security guys</add>
+        <add horPos="C" verPos="12" color="white">working at the casino.</add>
+      </textRows>
+    </record>
+    <record xml:id="record429" timeIn="00:37:10:01" timeOut="00:37:12:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Chris, wait. Call the police.</add>
+      </textRows>
+    </record>
+    <record xml:id="record430" timeIn="00:37:12:12" timeOut="00:37:14:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No. It won&apos;t do any good.</add>
+      </textRows>
+    </record>
+    <record xml:id="record431" timeIn="00:37:25:06" timeOut="00:37:27:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Is Pete okay?</add>
+        <add horPos="C" verPos="12" color="white">-He&apos;ll be fine.</add>
+      </textRows>
+    </record>
+    <record xml:id="record432" timeIn="00:37:29:21" timeOut="00:37:31:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What are you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record433" timeIn="00:37:33:07" timeOut="00:37:35:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No, Chris. Not like this.</add>
+      </textRows>
+    </record>
+    <record xml:id="record434" timeIn="00:37:37:04" timeOut="00:37:38:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Listen to me.</add>
+      </textRows>
+    </record>
+    <record xml:id="record435" timeIn="00:37:38:10" timeOut="00:37:41:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">If you go out of here with that gun,</add>
+        <add horPos="C" verPos="12" color="white">they&apos;re going to nail…</add>
+      </textRows>
+    </record>
+    <record xml:id="record436" timeIn="00:38:24:07" timeOut="00:38:26:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;ve been looking for you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record437" timeIn="00:40:14:20" timeOut="00:40:17:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Guess that changes our relationship</add>
+        <add horPos="C" verPos="12" color="white">a bit, huh?</add>
+      </textRows>
+    </record>
+    <record xml:id="record438" timeIn="00:40:59:09" timeOut="00:41:01:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You should not have come</add>
+        <add horPos="C" verPos="12" color="white">looking for trouble.</add>
+      </textRows>
+    </record>
+    <record xml:id="record439" timeIn="00:41:01:22" timeOut="00:41:05:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Keep your hands up.</add>
+        <add horPos="C" verPos="12" color="white">Get out of the vehicle now, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record440" timeIn="00:41:05:02" timeOut="00:41:06:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Now!</add>
+      </textRows>
+    </record>
+    <record xml:id="record441" timeIn="00:41:08:14" timeOut="00:41:11:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Step back, please.</add>
+        <add horPos="C" verPos="12" color="white">-Just move toward the front of the car.</add>
+      </textRows>
+    </record>
+    <record xml:id="record442" timeIn="00:41:11:22" timeOut="00:41:13:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Put your hands on the hood.</add>
+      </textRows>
+    </record>
+    <record xml:id="record443" timeIn="00:41:18:14" timeOut="00:41:22:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">I advise you to give this offer</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">more than a little serious thought.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record444" timeIn="00:41:22:15" timeOut="00:41:25:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">If you go to trial, you stand to do 18 years.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record445" timeIn="00:41:25:03" timeOut="00:41:26:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Now, this is a sweetheart plea.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record446" timeIn="00:41:26:22" timeOut="00:41:29:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">Normally they wouldn&apos;t even</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">put it on the table,</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record447" timeIn="00:41:30:00" timeOut="00:41:32:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">but your military record can&apos;t be ignored.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record448" timeIn="00:41:32:11" timeOut="00:41:35:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Three months home arrest,</add>
+        <add horPos="C" verPos="12" color="white">some community service,</add>
+      </textRows>
+    </record>
+    <record xml:id="record449" timeIn="00:41:36:13" timeOut="00:41:39:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-pretty generous offer, Chris.</add>
+        <add horPos="C" verPos="12" color="white">-But I&apos;d have to plead guilty.</add>
+      </textRows>
+    </record>
+    <record xml:id="record450" timeIn="00:41:40:10" timeOut="00:41:42:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Look at it from the other side.</add>
+      </textRows>
+    </record>
+    <record xml:id="record451" timeIn="00:41:42:04" timeOut="00:41:45:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">There&apos;s over a dozen witnesses, none</add>
+        <add horPos="C" verPos="12" color="white">of whom will paint a flattering picture.</add>
+      </textRows>
+    </record>
+    <record xml:id="record452" timeIn="00:41:45:22" timeOut="00:41:48:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-He started busting up the machines.</add>
+        <add horPos="C" verPos="12" color="white">-There was a gunshot.</add>
+      </textRows>
+    </record>
+    <record xml:id="record453" timeIn="00:41:48:15" timeOut="00:41:50:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-He just went crazy.</add>
+        <add horPos="C" verPos="12" color="white">-A complete psychopath.</add>
+      </textRows>
+    </record>
+    <record xml:id="record454" timeIn="00:41:50:23" timeOut="00:41:53:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">They&apos;re only offering me this deal</add>
+        <add horPos="C" verPos="12" color="white">just to keep me quiet.</add>
+      </textRows>
+    </record>
+    <record xml:id="record455" timeIn="00:41:53:16" timeOut="00:41:55:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I still say you should take it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record456" timeIn="00:41:56:04" timeOut="00:41:59:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I wasn&apos;t wrong. And I won&apos;t say I was.</add>
+      </textRows>
+    </record>
+    <record xml:id="record457" timeIn="00:42:01:02" timeOut="00:42:02:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Our job is to keep order.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record458" timeIn="00:42:03:09" timeOut="00:42:05:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">There was no chance</add>
+        <add horPos="C" verPos="12" color="white">of that once he came in.</add>
+      </textRows>
+    </record>
+    <record xml:id="record459" timeIn="00:42:06:19" timeOut="00:42:09:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Me and my men,</add>
+        <add horPos="C" verPos="12" color="white">we were just trying to control him.</add>
+      </textRows>
+    </record>
+    <record xml:id="record460" timeIn="00:42:11:10" timeOut="00:42:15:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He&apos;s highly trained, violent.</add>
+        <add horPos="C" verPos="12" color="white">A very dangerous person.</add>
+      </textRows>
+    </record>
+    <record xml:id="record461" timeIn="00:42:16:20" timeOut="00:42:21:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">So violent, so dangerous,</add>
+        <add horPos="C" verPos="12" color="white">so highly trained,</add>
+      </textRows>
+    </record>
+    <record xml:id="record462" timeIn="00:42:21:17" timeOut="00:42:25:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">that he dispatched six of the casino</add>
+        <add horPos="C" verPos="12" color="white">security staff single-handedly.</add>
+      </textRows>
+    </record>
+    <record xml:id="record463" timeIn="00:42:26:12" timeOut="00:42:28:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Six men, single-handedly.</add>
+      </textRows>
+    </record>
+    <record xml:id="record464" timeIn="00:42:29:17" timeOut="00:42:33:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">His weapon of choice,</add>
+        <add horPos="C" verPos="12" color="white">a simple piece of cedar,</add>
+      </textRows>
+    </record>
+    <record xml:id="record465" timeIn="00:42:34:11" timeOut="00:42:38:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">which, in his hands,</add>
+        <add horPos="C" verPos="12" color="white">became a devastating force with one aim.</add>
+      </textRows>
+    </record>
+    <record xml:id="record466" timeIn="00:42:38:12" timeOut="00:42:41:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">To hurt people and destroy property.</add>
+      </textRows>
+    </record>
+    <record xml:id="record467" timeIn="00:42:44:20" timeOut="00:42:49:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He went directly for everything.</add>
+        <add horPos="C" verPos="12" color="white">He just came in and took over the place.</add>
+      </textRows>
+    </record>
+    <record xml:id="record468" timeIn="00:42:49:08" timeOut="00:42:53:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You said he broke your arm.</add>
+        <add horPos="C" verPos="12" color="white">-Yeah, that&apos;s correct. My right forearm.</add>
+      </textRows>
+    </record>
+    <record xml:id="record469" timeIn="00:42:54:04" timeOut="00:42:57:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Both bones with a single shot.</add>
+        <add horPos="C" verPos="12" color="white">It was crazy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record470" timeIn="00:42:59:01" timeOut="00:43:00:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Toss a couple of drunks now and then.</add>
+      </textRows>
+    </record>
+    <record xml:id="record471" timeIn="00:43:00:23" timeOut="00:43:04:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Guys try to grope the girls.</add>
+        <add horPos="C" verPos="12" color="white">But nothing with this sort of violence.</add>
+      </textRows>
+    </record>
+    <record xml:id="record472" timeIn="00:43:04:03" timeOut="00:43:07:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Did he give you</add>
+        <add horPos="C" verPos="12" color="white">any kind of advance warning,</add>
+      </textRows>
+    </record>
+    <record xml:id="record473" timeIn="00:43:08:09" timeOut="00:43:10:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">a chance to defend yourself?</add>
+      </textRows>
+    </record>
+    <record xml:id="record474" timeIn="00:43:10:14" timeOut="00:43:14:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">We tussled, but he&apos;s a big guy.</add>
+        <add horPos="C" verPos="12" color="white">He was on a mission.</add>
+      </textRows>
+    </record>
+    <record xml:id="record475" timeIn="00:43:14:03" timeOut="00:43:17:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Besides, he seemed to be too busy</add>
+        <add horPos="C" verPos="12" color="white">enjoying himself from what I could see.</add>
+      </textRows>
+    </record>
+    <record xml:id="record476" timeIn="00:43:17:16" timeOut="00:43:20:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">So from what you saw,</add>
+        <add horPos="C" verPos="12" color="white">he seemed to have some kind of purpose?</add>
+      </textRows>
+    </record>
+    <record xml:id="record477" timeIn="00:43:20:15" timeOut="00:43:21:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He had a point to prove.</add>
+      </textRows>
+    </record>
+    <record xml:id="record478" timeIn="00:43:21:21" timeOut="00:43:25:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I was emptying machines</add>
+        <add horPos="C" verPos="12" color="white">when he came in and started swinging.</add>
+      </textRows>
+    </record>
+    <record xml:id="record479" timeIn="00:43:25:01" timeOut="00:43:27:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I was trying to get out of there.</add>
+        <add horPos="C" verPos="12" color="white">-He was a menace.</add>
+      </textRows>
+    </record>
+    <record xml:id="record480" timeIn="00:43:27:10" timeOut="00:43:29:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-A very dangerous person.</add>
+        <add horPos="C" verPos="12" color="white">-Military-trained.</add>
+      </textRows>
+    </record>
+    <record xml:id="record481" timeIn="00:43:29:11" timeOut="00:43:31:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He seemed like a complete psychopath.</add>
+      </textRows>
+    </record>
+    <record xml:id="record482" timeIn="00:43:31:03" timeOut="00:43:33:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Nothing close to this.</add>
+        <add horPos="C" verPos="12" color="white">-I didn&apos;t know what he&apos;d do.</add>
+      </textRows>
+    </record>
+    <record xml:id="record483" timeIn="00:43:33:12" timeOut="00:43:35:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I was frightened.</add>
+        <add horPos="C" verPos="12" color="white">-He came for us.</add>
+      </textRows>
+    </record>
+    <record xml:id="record484" timeIn="00:43:35:01" timeOut="00:43:36:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-No doubt in your mind?</add>
+        <add horPos="C" verPos="12" color="white">-No doubt.</add>
+      </textRows>
+    </record>
+    <record xml:id="record485" timeIn="00:43:36:17" timeOut="00:43:38:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I have no further questions.</add>
+      </textRows>
+    </record>
+    <record xml:id="record486" timeIn="00:43:38:03" timeOut="00:43:42:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Mr. Crowe, you may present</add>
+        <add horPos="C" verPos="12" color="white">your client&apos;s case.</add>
+      </textRows>
+    </record>
+    <record xml:id="record487" timeIn="00:43:43:08" timeOut="00:43:44:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re fired.</add>
+      </textRows>
+    </record>
+    <record xml:id="record488" timeIn="00:43:49:12" timeOut="00:43:53:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Your Honor, I&apos;d like to plead my own case.</add>
+      </textRows>
+    </record>
+    <record xml:id="record489" timeIn="00:43:55:12" timeOut="00:43:56:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Order!</add>
+      </textRows>
+    </record>
+    <record xml:id="record490" timeIn="00:44:00:23" timeOut="00:44:05:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">If you choose to represent yourself,</add>
+        <add horPos="C" verPos="12" color="white">and not be represented by legal counsel,</add>
+      </textRows>
+    </record>
+    <record xml:id="record491" timeIn="00:44:05:04" timeOut="00:44:09:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">you realize that you can&apos;t</add>
+        <add horPos="C" verPos="12" color="white">then claim a mistrial on that basis?</add>
+      </textRows>
+    </record>
+    <record xml:id="record492" timeIn="00:44:10:05" timeOut="00:44:12:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Yes, I do.</add>
+        <add horPos="C" verPos="12" color="white">-Very well, Mr. Vaughn.</add>
+      </textRows>
+    </record>
+    <record xml:id="record493" timeIn="00:44:21:03" timeOut="00:44:23:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I don&apos;t deny anything</add>
+        <add horPos="C" verPos="12" color="white">that was said here today.</add>
+      </textRows>
+    </record>
+    <record xml:id="record494" timeIn="00:44:23:08" timeOut="00:44:25:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Does that mean</add>
+        <add horPos="C" verPos="12" color="white">you&apos;re changing your plea to guilty?</add>
+      </textRows>
+    </record>
+    <record xml:id="record495" timeIn="00:44:25:18" timeOut="00:44:27:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m not guilty of anything,</add>
+      </textRows>
+    </record>
+    <record xml:id="record496" timeIn="00:44:27:12" timeOut="00:44:29:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">except standing up for myself</add>
+        <add horPos="C" verPos="12" color="white">when the law wouldn&apos;t.</add>
+      </textRows>
+    </record>
+    <record xml:id="record497" timeIn="00:44:29:20" timeOut="00:44:32:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Objection. He&apos;s trying</add>
+        <add horPos="C" verPos="12" color="white">to introduce prior events.</add>
+      </textRows>
+    </record>
+    <record xml:id="record498" timeIn="00:44:32:19" timeOut="00:44:36:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sustained. Mr. Vaughn, stay on point.</add>
+      </textRows>
+    </record>
+    <record xml:id="record499" timeIn="00:44:39:07" timeOut="00:44:41:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I grew up in this town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record500" timeIn="00:44:41:13" timeOut="00:44:44:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">People used to walk tall in this town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record501" timeIn="00:44:44:09" timeOut="00:44:46:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">They wouldn&apos;t have traded the mill</add>
+        <add horPos="C" verPos="12" color="white">for a crooked casino.</add>
+      </textRows>
+    </record>
+    <record xml:id="record502" timeIn="00:44:47:00" timeOut="00:44:49:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">We&apos;re not here to listen</add>
+        <add horPos="C" verPos="12" color="white">to civic speeches…</add>
+      </textRows>
+    </record>
+    <record xml:id="record503" timeIn="00:44:49:04" timeOut="00:44:51:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And they wouldn&apos;t have stood around</add>
+        <add horPos="C" verPos="12" color="white">while drugs were sold to kids.</add>
+      </textRows>
+    </record>
+    <record xml:id="record504" timeIn="00:44:51:22" timeOut="00:44:53:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Objection!</add>
+        <add horPos="C" verPos="12" color="white">-Sustained.</add>
+      </textRows>
+    </record>
+    <record xml:id="record505" timeIn="00:44:53:07" timeOut="00:44:56:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Mr. Vaughn, you&apos;re close</add>
+        <add horPos="C" verPos="12" color="white">to being held in contempt.</add>
+      </textRows>
+    </record>
+    <record xml:id="record506" timeIn="00:44:57:03" timeOut="00:44:58:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I was justified in what I did.</add>
+      </textRows>
+    </record>
+    <record xml:id="record507" timeIn="00:44:58:18" timeOut="00:45:02:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And if you acquit me of these charges,</add>
+        <add horPos="C" verPos="12" color="white">then I&apos;m gonna run for sheriff.</add>
+      </textRows>
+    </record>
+    <record xml:id="record508" timeIn="00:45:02:06" timeOut="00:45:04:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Mr. Vaughn.</add>
+        <add horPos="C" verPos="12" color="white">-And if elected, I&apos;m gonna fix this town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record509" timeIn="00:45:04:19" timeOut="00:45:06:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Order.</add>
+      </textRows>
+    </record>
+    <record xml:id="record510" timeIn="00:45:07:22" timeOut="00:45:09:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Please take your seat.</add>
+      </textRows>
+    </record>
+    <record xml:id="record511" timeIn="00:45:10:06" timeOut="00:45:12:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Mr. Vaughn, you are now charged</add>
+        <add horPos="C" verPos="12" color="white">with contempt.</add>
+      </textRows>
+    </record>
+    <record xml:id="record512" timeIn="00:45:12:23" timeOut="00:45:15:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">And I will make sure that this…</add>
+      </textRows>
+    </record>
+    <record xml:id="record513" timeIn="00:45:15:04" timeOut="00:45:16:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Objection.</add>
+        <add horPos="C" verPos="12" color="white">-Sustained.</add>
+      </textRows>
+    </record>
+    <record xml:id="record514" timeIn="00:45:16:08" timeOut="00:45:19:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">…never happens to anyone again</add>
+        <add horPos="C" verPos="12" color="white">without punishing those who did it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record515" timeIn="00:45:19:16" timeOut="00:45:22:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;m ordering the jury to ignore</add>
+        <add horPos="C" verPos="12" color="white">what they&apos;ve just seen.</add>
+      </textRows>
+    </record>
+    <record xml:id="record516" timeIn="00:45:22:06" timeOut="00:45:24:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Mr. Vaughn, take your seat.</add>
+      </textRows>
+    </record>
+    <record xml:id="record517" timeIn="00:45:28:02" timeOut="00:45:29:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Order.</add>
+      </textRows>
+    </record>
+    <record xml:id="record518" timeIn="00:45:30:14" timeOut="00:45:33:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Or you&apos;re all charged with contempt!</add>
+      </textRows>
+    </record>
+    <record xml:id="record519" timeIn="00:45:43:19" timeOut="00:45:46:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">Mr. Foreman, has the jury</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">reached a verdict?</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record520" timeIn="00:45:46:19" timeOut="00:45:48:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We have, Your Honor.</add>
+      </textRows>
+    </record>
+    <record xml:id="record521" timeIn="00:45:48:13" timeOut="00:45:50:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Defendant, please rise.</add>
+      </textRows>
+    </record>
+    <record xml:id="record522" timeIn="00:45:51:00" timeOut="00:45:54:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">We find the defendant, Chris Vaughn,</add>
+        <add horPos="C" verPos="12" color="white">not guilty.</add>
+      </textRows>
+    </record>
+    <record xml:id="record523" timeIn="00:46:15:00" timeOut="00:46:16:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This is mine.</add>
+      </textRows>
+    </record>
+    <record xml:id="record524" timeIn="00:46:25:15" timeOut="00:46:27:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sheriff Vaughn!</add>
+      </textRows>
+    </record>
+    <record xml:id="record525" timeIn="00:47:07:02" timeOut="00:47:09:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You won the election. Congratulations.</add>
+      </textRows>
+    </record>
+    <record xml:id="record526" timeIn="00:47:09:19" timeOut="00:47:12:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">But we do have a tradition</add>
+        <add horPos="C" verPos="12" color="white">of professional courtesy up here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record527" timeIn="00:47:12:20" timeOut="00:47:16:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And I can personally vouch</add>
+        <add horPos="C" verPos="12" color="white">for each and every one of these men.</add>
+      </textRows>
+    </record>
+    <record xml:id="record528" timeIn="00:47:16:02" timeOut="00:47:17:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">They&apos;re good deputies.</add>
+      </textRows>
+    </record>
+    <record xml:id="record529" timeIn="00:47:17:18" timeOut="00:47:19:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re all fired.</add>
+      </textRows>
+    </record>
+    <record xml:id="record530" timeIn="00:48:38:04" timeOut="00:48:41:05">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hey, Chris.</add>
+        <add horPos="C" verPos="12" color="white">-License and registration, please.</add>
+      </textRows>
+    </record>
+    <record xml:id="record531" timeIn="00:48:43:19" timeOut="00:48:45:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re joking, right?</add>
+      </textRows>
+    </record>
+    <record xml:id="record532" timeIn="00:48:46:03" timeOut="00:48:47:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">License and registration.</add>
+      </textRows>
+    </record>
+    <record xml:id="record533" timeIn="00:48:58:19" timeOut="00:49:00:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What&apos;s the problem, Sheriff?</add>
+      </textRows>
+    </record>
+    <record xml:id="record534" timeIn="00:49:01:11" timeOut="00:49:04:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You. And the drugs you&apos;re peddling</add>
+        <add horPos="C" verPos="12" color="white">out of your casino.</add>
+      </textRows>
+    </record>
+    <record xml:id="record535" timeIn="00:49:05:02" timeOut="00:49:07:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">The only thing that&apos;s going on</add>
+        <add horPos="C" verPos="12" color="white">in my casino is construction.</add>
+      </textRows>
+    </record>
+    <record xml:id="record536" timeIn="00:49:08:00" timeOut="00:49:09:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You took care of that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record537" timeIn="00:49:09:03" timeOut="00:49:12:03">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">That&apos;s right. And I plan on taking care</add>
+        <add horPos="C" verPos="12" color="white">of everything else, too.</add>
+      </textRows>
+    </record>
+    <record xml:id="record538" timeIn="00:49:12:04" timeOut="00:49:14:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">If you can, try to think this through.</add>
+      </textRows>
+    </record>
+    <record xml:id="record539" timeIn="00:49:14:23" timeOut="00:49:17:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">A casino is a license to print money.</add>
+      </textRows>
+    </record>
+    <record xml:id="record540" timeIn="00:49:17:18" timeOut="00:49:19:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Why would I jeopardize that</add>
+        <add horPos="C" verPos="12" color="white">by selling drugs?</add>
+      </textRows>
+    </record>
+    <record xml:id="record541" timeIn="00:49:19:22" timeOut="00:49:22:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Because you owned the town, Jay.</add>
+        <add horPos="C" verPos="12" color="white">That&apos;s changed now.</add>
+      </textRows>
+    </record>
+    <record xml:id="record542" timeIn="00:49:22:20" timeOut="00:49:25:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Really? The only thing I think has changed</add>
+        <add horPos="C" verPos="12" color="white">around here</add>
+      </textRows>
+    </record>
+    <record xml:id="record543" timeIn="00:49:25:17" timeOut="00:49:29:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">is that you get to wake up every morning</add>
+        <add horPos="C" verPos="12" color="white">and put on that nifty little badge.</add>
+      </textRows>
+    </record>
+    <record xml:id="record544" timeIn="00:49:29:09" timeOut="00:49:33:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">But underneath it is the same guy who</add>
+        <add horPos="C" verPos="12" color="white">couldn&apos;t make it playing college football,</add>
+      </textRows>
+    </record>
+    <record xml:id="record545" timeIn="00:49:33:12" timeOut="00:49:35:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">and apparently couldn&apos;t make it</add>
+        <add horPos="C" verPos="12" color="white">in the Army,</add>
+      </textRows>
+    </record>
+    <record xml:id="record546" timeIn="00:49:35:18" timeOut="00:49:38:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">and not really ever gonna make it as a cop.</add>
+      </textRows>
+    </record>
+    <record xml:id="record547" timeIn="00:49:38:02" timeOut="00:49:39:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Is that right?</add>
+        <add horPos="C" verPos="12" color="white">-Yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record548" timeIn="00:49:40:07" timeOut="00:49:44:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">And if you push too hard, you&apos;re going</add>
+        <add horPos="C" verPos="12" color="white">to be a man who never gets to see 40.</add>
+      </textRows>
+    </record>
+    <record xml:id="record549" timeIn="00:49:47:18" timeOut="00:49:49:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">License, please.</add>
+      </textRows>
+    </record>
+    <record xml:id="record550" timeIn="00:49:56:13" timeOut="00:49:58:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Thanks, Sheriff.</add>
+      </textRows>
+    </record>
+    <record xml:id="record551" timeIn="00:50:00:12" timeOut="00:50:03:22">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Sir, get your taillights fixed.</add>
+        <add horPos="C" verPos="12" color="white">It&apos;s your last warning.</add>
+      </textRows>
+    </record>
+    <record xml:id="record552" timeIn="00:50:04:00" timeOut="00:50:06:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What&apos;s wrong with my taillights?</add>
+      </textRows>
+    </record>
+    <record xml:id="record553" timeIn="00:50:09:19" timeOut="00:50:11:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">They&apos;re broken.</add>
+      </textRows>
+    </record>
+    <record xml:id="record554" timeIn="00:50:39:23" timeOut="00:50:43:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Morning, Sheriff.</add>
+        <add horPos="C" verPos="12" color="white">-Morning, Deputy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record555" timeIn="00:50:48:20" timeOut="00:50:50:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No.</add>
+      </textRows>
+    </record>
+    <record xml:id="record556" timeIn="00:50:52:21" timeOut="00:50:55:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come on, man. You know I hate cops.</add>
+      </textRows>
+    </record>
+    <record xml:id="record557" timeIn="00:50:55:11" timeOut="00:50:59:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You&apos;ve been sheriff for about two minutes,</add>
+        <add horPos="C" verPos="12" color="white">and I&apos;m already starting to hate you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record558" timeIn="00:50:59:12" timeOut="00:51:02:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;m a convicted felon.</add>
+        <add horPos="C" verPos="12" color="white">-I&apos;ve got pull around here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record559" timeIn="00:51:02:04" timeOut="00:51:05:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Now you&apos;re a crooked cop doing favors</add>
+        <add horPos="C" verPos="12" color="white">for friends. That&apos;s how it starts.</add>
+      </textRows>
+    </record>
+    <record xml:id="record560" timeIn="00:51:06:00" timeOut="00:51:09:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Next thing you know you&apos;ll be</add>
+        <add horPos="C" verPos="12" color="white">taking bribes, setting up roadblocks,</add>
+      </textRows>
+    </record>
+    <record xml:id="record561" timeIn="00:51:09:08" timeOut="00:51:12:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-frisking dudes&apos; crotches.</add>
+        <add horPos="C" verPos="12" color="white">-Are you done?</add>
+      </textRows>
+    </record>
+    <record xml:id="record562" timeIn="00:51:16:04" timeOut="00:51:19:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Ray, I need your help.</add>
+        <add horPos="C" verPos="12" color="white">-Don&apos;t do that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record563" timeIn="00:51:19:12" timeOut="00:51:22:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I need you to take me to drug school.</add>
+      </textRows>
+    </record>
+    <record xml:id="record564" timeIn="00:51:28:10" timeOut="00:51:30:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I get to wear a uniform?</add>
+      </textRows>
+    </record>
+    <record xml:id="record565" timeIn="00:51:31:05" timeOut="00:51:33:21">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">The stuff in this town</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">is five-star, factory pure.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record566" timeIn="00:51:33:23" timeOut="00:51:36:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-<span fontStyle="italic">So let&apos;s go get the factory.</span></add>
+        <add horPos="C" verPos="12" color="white">-<span fontStyle="italic">Easier said than done.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record567" timeIn="00:51:36:12" timeOut="00:51:39:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">We know Hamilton&apos;s boys</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">are selling that shit down at the casino.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record568" timeIn="00:51:39:18" timeOut="00:51:41:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Yeah, but 99% of the time they&apos;re clean.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record569" timeIn="00:51:41:21" timeOut="00:51:45:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">So we got to play follow-the-money,</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">starting with the tweakers.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record570" timeIn="00:51:45:01" timeOut="00:51:46:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">That&apos;ll give us the suppliers.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record571" timeIn="00:51:46:20" timeOut="00:51:50:23">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">These guys are real edgy,</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">so delicacy is the key.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record572" timeIn="00:51:51:12" timeOut="00:51:53:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Then we put the squeeze on them</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record573" timeIn="00:51:53:07" timeOut="00:51:55:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">till they spit out the location</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">of the next buy.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record574" timeIn="00:51:55:12" timeOut="00:51:58:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Where&apos;d you learn that, Ray?</add>
+        <add horPos="C" verPos="12" color="white">-<span fontStyle="italic">Cops.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record575" timeIn="00:51:58:22" timeOut="00:52:00:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s a good show.</add>
+      </textRows>
+    </record>
+    <record xml:id="record576" timeIn="00:52:01:11" timeOut="00:52:03:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Phase three, we strike.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record577" timeIn="00:52:03:12" timeOut="00:52:07:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-<span fontStyle="italic">I thought you said delicacy was the key.</span></add>
+        <add horPos="C" verPos="12" color="white">-<span fontStyle="italic">That&apos;s right. Delicacy and precision.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record578" timeIn="00:52:07:22" timeOut="00:52:10:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Hey, what&apos;s up?</add>
+        <add horPos="C" verPos="12" color="white">-Get out of here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record579" timeIn="00:52:25:13" timeOut="00:52:29:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You&apos;re sure you&apos;re not carrying anything?</add>
+        <add horPos="C" verPos="12" color="white">-I don&apos;t have shit.</add>
+      </textRows>
+    </record>
+    <record xml:id="record580" timeIn="00:52:30:02" timeOut="00:52:31:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Officer.</add>
+        <add horPos="C" verPos="12" color="white">-Yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record581" timeIn="00:52:35:01" timeOut="00:52:36:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Search him.</add>
+      </textRows>
+    </record>
+    <record xml:id="record582" timeIn="00:52:39:08" timeOut="00:52:43:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">This is going to be a switch.</add>
+        <add horPos="C" verPos="12" color="white">Spread your legs. Arms down.</add>
+      </textRows>
+    </record>
+    <record xml:id="record583" timeIn="00:52:45:20" timeOut="00:52:47:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You been working out?</add>
+      </textRows>
+    </record>
+    <record xml:id="record584" timeIn="00:52:49:15" timeOut="00:52:50:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Nothing there.</add>
+      </textRows>
+    </record>
+    <record xml:id="record585" timeIn="00:52:52:07" timeOut="00:52:54:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Somebody needs a bath.</add>
+      </textRows>
+    </record>
+    <record xml:id="record586" timeIn="00:53:04:18" timeOut="00:53:07:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Now you read me my rights,</add>
+        <add horPos="C" verPos="12" color="white">then you take me in,</add>
+      </textRows>
+    </record>
+    <record xml:id="record587" timeIn="00:53:08:18" timeOut="00:53:10:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">and I call my lawyer.</add>
+      </textRows>
+    </record>
+    <record xml:id="record588" timeIn="00:53:10:14" timeOut="00:53:14:09">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Okay. But I have a hunch</add>
+        <add horPos="C" verPos="12" color="white">there may be something else in here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record589" timeIn="00:53:16:06" timeOut="00:53:17:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Could be.</add>
+      </textRows>
+    </record>
+    <record xml:id="record590" timeIn="00:53:23:16" timeOut="00:53:26:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Go to it, Deputy. Have a good time.</add>
+      </textRows>
+    </record>
+    <record xml:id="record591" timeIn="00:54:07:00" timeOut="00:54:09:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-He ain&apos;t talking.</add>
+        <add horPos="C" verPos="12" color="white">-I know.</add>
+      </textRows>
+    </record>
+    <record xml:id="record592" timeIn="00:54:27:00" timeOut="00:54:28:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Handles pretty good.</add>
+      </textRows>
+    </record>
+    <record xml:id="record593" timeIn="00:54:40:20" timeOut="00:54:42:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">He&apos;s clean.</add>
+      </textRows>
+    </record>
+    <record xml:id="record594" timeIn="00:54:46:14" timeOut="00:54:48:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Guess we got to go with Plan B.</add>
+      </textRows>
+    </record>
+    <record xml:id="record595" timeIn="00:54:49:20" timeOut="00:54:51:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Screw you both.</add>
+      </textRows>
+    </record>
+    <record xml:id="record596" timeIn="00:54:52:12" timeOut="00:54:54:19">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I do have a bit of information for you.</add>
+      </textRows>
+    </record>
+    <record xml:id="record597" timeIn="00:54:54:20" timeOut="00:54:58:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">It&apos;s not just me, actually.</add>
+        <add horPos="C" verPos="12" color="white">There&apos;s a whole lot of people in this one.</add>
+      </textRows>
+    </record>
+    <record xml:id="record598" timeIn="00:54:58:15" timeOut="00:55:00:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Spit it out.</add>
+      </textRows>
+    </record>
+    <record xml:id="record599" timeIn="00:55:01:14" timeOut="00:55:03:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re gonna get hurt.</add>
+      </textRows>
+    </record>
+    <record xml:id="record600" timeIn="00:55:08:12" timeOut="00:55:10:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What an idiot.</add>
+      </textRows>
+    </record>
+    <record xml:id="record601" timeIn="00:55:21:02" timeOut="00:55:23:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Why does it always have to be your fight?</add>
+      </textRows>
+    </record>
+    <record xml:id="record602" timeIn="00:55:26:20" timeOut="00:55:29:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-You might need this.</add>
+        <add horPos="C" verPos="12" color="white">-No.</add>
+      </textRows>
+    </record>
+    <record xml:id="record603" timeIn="00:55:29:20" timeOut="00:55:34:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I put my guns down a long time ago.</add>
+        <add horPos="C" verPos="12" color="white">-Come on. You&apos;re just being stubborn.</add>
+      </textRows>
+    </record>
+    <record xml:id="record604" timeIn="00:55:34:10" timeOut="00:55:36:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You and me both, boy.</add>
+      </textRows>
+    </record>
+    <record xml:id="record605" timeIn="00:55:39:08" timeOut="00:55:40:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Chris, listen.</add>
+      </textRows>
+    </record>
+    <record xml:id="record606" timeIn="00:55:42:10" timeOut="00:55:44:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You be careful.</add>
+      </textRows>
+    </record>
+    <record xml:id="record607" timeIn="00:55:45:16" timeOut="00:55:46:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I will.</add>
+      </textRows>
+    </record>
+    <record xml:id="record608" timeIn="00:55:57:07" timeOut="00:55:59:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Please step away from the vehicle!</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record609" timeIn="00:55:59:13" timeOut="00:56:02:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">Mr. Booth, are you still upset</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">over that body-cavity search?</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record610" timeIn="00:56:02:16" timeOut="00:56:04:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">I forgot, you got no vehicle.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record611" timeIn="00:56:08:20" timeOut="00:56:11:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">Please disperse! There is nothing to…</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record612" timeIn="00:56:14:04" timeOut="00:56:15:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Can I talk to you?</add>
+      </textRows>
+    </record>
+    <record xml:id="record613" timeIn="00:56:15:14" timeOut="00:56:17:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Sure.</add>
+        <add horPos="C" verPos="12" color="white">-Over here?</add>
+      </textRows>
+    </record>
+    <record xml:id="record614" timeIn="00:56:21:20" timeOut="00:56:25:20">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I&apos;m gonna stay here with him tonight.</add>
+        <add horPos="C" verPos="12" color="white">I need you to look after my parents&apos; place.</add>
+      </textRows>
+    </record>
+    <record xml:id="record615" timeIn="00:56:25:22" timeOut="00:56:28:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Think they&apos;re gonna take it that far?</add>
+      </textRows>
+    </record>
+    <record xml:id="record616" timeIn="00:56:37:05" timeOut="00:56:40:16">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I&apos;m with you, man. I&apos;ll check in later.</add>
+        <add horPos="C" verPos="12" color="white">-Okay.</add>
+      </textRows>
+    </record>
+    <record xml:id="record617" timeIn="00:56:53:19" timeOut="00:56:57:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white"><span fontStyle="italic">A drive to right field.</span></add>
+        <add horPos="C" verPos="12" color="white"><span fontStyle="italic">It&apos;s dropping for a single.</span></add>
+      </textRows>
+    </record>
+    <record xml:id="record618" timeIn="00:57:05:05" timeOut="00:57:07:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You making house calls?</add>
+      </textRows>
+    </record>
+    <record xml:id="record619" timeIn="00:57:11:15" timeOut="00:57:13:15">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Don&apos;t shoot.</add>
+        <add horPos="C" verPos="12" color="white">-Hey.</add>
+      </textRows>
+    </record>
+    <record xml:id="record620" timeIn="00:57:18:06" timeOut="00:57:20:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">How&apos;s the food around here?</add>
+      </textRows>
+    </record>
+    <record xml:id="record621" timeIn="00:57:21:05" timeOut="00:57:22:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Nice.</add>
+      </textRows>
+    </record>
+    <record xml:id="record622" timeIn="00:57:24:12" timeOut="00:57:26:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I brought you special treats.</add>
+      </textRows>
+    </record>
+    <record xml:id="record623" timeIn="00:57:28:04" timeOut="00:57:31:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Salad, fried chicken,</add>
+      </textRows>
+    </record>
+    <record xml:id="record624" timeIn="00:57:33:09" timeOut="00:57:35:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">potato salad.</add>
+      </textRows>
+    </record>
+    <record xml:id="record625" timeIn="00:57:36:05" timeOut="00:57:38:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Do you have glasses?</add>
+        <add horPos="C" verPos="12" color="white">-Yeah.</add>
+      </textRows>
+    </record>
+    <record xml:id="record626" timeIn="00:57:49:02" timeOut="00:57:52:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Do you have to work tonight?</add>
+        <add horPos="C" verPos="12" color="white">-I quit.</add>
+      </textRows>
+    </record>
+    <record xml:id="record627" timeIn="00:57:54:10" timeOut="00:57:57:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I figured you were making some changes</add>
+        <add horPos="C" verPos="12" color="white">around here,</add>
+      </textRows>
+    </record>
+    <record xml:id="record628" timeIn="00:57:57:14" timeOut="00:57:59:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I could make a few myself.</add>
+      </textRows>
+    </record>
+    <record xml:id="record629" timeIn="00:58:03:23" timeOut="00:58:05:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Salt and pepper?</add>
+      </textRows>
+    </record>
+    <record xml:id="record630" timeIn="00:59:24:00" timeOut="00:59:25:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Who is that?</add>
+        <add horPos="C" verPos="12" color="white">-Pete.</add>
+      </textRows>
+    </record>
+    <record xml:id="record631" timeIn="00:59:25:23" timeOut="00:59:28:13">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Want something to eat?</add>
+        <add horPos="C" verPos="12" color="white">-No. I&apos;m good, man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record632" timeIn="00:59:41:05" timeOut="00:59:43:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I got to get a bigger bed.</add>
+      </textRows>
+    </record>
+    <record xml:id="record633" timeIn="00:59:47:13" timeOut="00:59:49:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">No, you don&apos;t.</add>
+      </textRows>
+    </record>
+    <record xml:id="record634" timeIn="01:00:18:00" timeOut="01:00:19:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Do it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record635" timeIn="01:00:21:04" timeOut="01:00:22:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m hungry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record636" timeIn="01:00:23:18" timeOut="01:00:25:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">We&apos;ve got leftovers.</add>
+      </textRows>
+    </record>
+    <record xml:id="record637" timeIn="01:00:27:02" timeOut="01:00:31:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I want pancakes. And eggs. And bacon.</add>
+      </textRows>
+    </record>
+    <record xml:id="record638" timeIn="01:00:46:10" timeOut="01:00:48:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I told you, Vaughn.</add>
+      </textRows>
+    </record>
+    <record xml:id="record639" timeIn="01:00:54:00" timeOut="01:00:55:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Stay here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record640" timeIn="01:01:00:11" timeOut="01:01:03:18">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Who needs to step away</add>
+        <add horPos="C" verPos="12" color="white">from the vehicle now, Vaughn?</add>
+      </textRows>
+    </record>
+    <record xml:id="record641" timeIn="01:01:07:03" timeOut="01:01:09:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Truck for a truck, baby!</add>
+      </textRows>
+    </record>
+    <record xml:id="record642" timeIn="01:01:09:15" timeOut="01:01:13:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s right! Truck for a truck!</add>
+      </textRows>
+    </record>
+    <record xml:id="record643" timeIn="01:01:28:09" timeOut="01:01:29:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Get down!</add>
+      </textRows>
+    </record>
+    <record xml:id="record644" timeIn="01:01:31:05" timeOut="01:01:32:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Tear it up, boys!</add>
+      </textRows>
+    </record>
+    <record xml:id="record645" timeIn="01:01:43:04" timeOut="01:01:45:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Pete, something&apos;s burning.</add>
+      </textRows>
+    </record>
+    <record xml:id="record646" timeIn="01:01:54:17" timeOut="01:01:56:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Take this.</add>
+      </textRows>
+    </record>
+    <record xml:id="record647" timeIn="01:01:57:11" timeOut="01:01:58:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Get in there.</add>
+      </textRows>
+    </record>
+    <record xml:id="record648" timeIn="01:02:15:04" timeOut="01:02:16:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Good morning, honey.</add>
+      </textRows>
+    </record>
+    <record xml:id="record649" timeIn="01:02:19:08" timeOut="01:02:20:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Get out of here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record650" timeIn="01:02:23:07" timeOut="01:02:25:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sheriff, are you home?</add>
+      </textRows>
+    </record>
+    <record xml:id="record651" timeIn="01:02:27:03" timeOut="01:02:29:22">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I told you someone was going to get hurt!</add>
+      </textRows>
+    </record>
+    <record xml:id="record652" timeIn="01:03:05:13" timeOut="01:03:06:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record653" timeIn="01:03:07:23" timeOut="01:03:10:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">When I say now, start shooting!</add>
+      </textRows>
+    </record>
+    <record xml:id="record654" timeIn="01:03:10:20" timeOut="01:03:12:04">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Over there!</add>
+      </textRows>
+    </record>
+    <record xml:id="record655" timeIn="01:03:14:16" timeOut="01:03:15:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Stay low.</add>
+      </textRows>
+    </record>
+    <record xml:id="record656" timeIn="01:03:16:16" timeOut="01:03:19:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Vaughn! You got to get me out of here.</add>
+      </textRows>
+    </record>
+    <record xml:id="record657" timeIn="01:03:22:10" timeOut="01:03:25:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Move it. Go! Move it, old man.</add>
+      </textRows>
+    </record>
+    <record xml:id="record658" timeIn="01:03:25:08" timeOut="01:03:27:11">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Where&apos;s Pete?</add>
+        <add horPos="C" verPos="12" color="white">-I don&apos;t know.</add>
+      </textRows>
+    </record>
+    <record xml:id="record659" timeIn="01:03:27:19" timeOut="01:03:29:01">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Sit down.</add>
+      </textRows>
+    </record>
+    <record xml:id="record660" timeIn="01:03:30:21" timeOut="01:03:33:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-I know who you are.</add>
+        <add horPos="C" verPos="12" color="white">-Oh, yeah?</add>
+      </textRows>
+    </record>
+    <record xml:id="record661" timeIn="01:03:39:01" timeOut="01:03:42:14">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Burke?</add>
+        <add horPos="C" verPos="12" color="white">-Son of a bitch. Check it out.</add>
+      </textRows>
+    </record>
+    <record xml:id="record662" timeIn="01:04:15:00" timeOut="01:04:17:10">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come on! Get me out of here, man!</add>
+      </textRows>
+    </record>
+    <record xml:id="record663" timeIn="01:04:18:04" timeOut="01:04:21:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-What&apos;s it worth to you? Where&apos;s the lab?</add>
+        <add horPos="C" verPos="12" color="white">-Screw you!</add>
+      </textRows>
+    </record>
+    <record xml:id="record664" timeIn="01:04:26:17" timeOut="01:04:30:19">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Hamilton&apos;s operation is at the mill, okay?</add>
+        <add horPos="C" verPos="12" color="white">Now get me out of here!</add>
+      </textRows>
+    </record>
+    <record xml:id="record665" timeIn="01:04:37:00" timeOut="01:04:38:06">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Drop it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record666" timeIn="01:04:41:04" timeOut="01:04:42:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Stay down!</add>
+      </textRows>
+    </record>
+    <record xml:id="record667" timeIn="01:04:46:03" timeOut="01:04:47:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Stay down.</add>
+      </textRows>
+    </record>
+    <record xml:id="record668" timeIn="01:04:54:16" timeOut="01:04:55:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You okay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record669" timeIn="01:05:03:21" timeOut="01:05:05:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Shit.</add>
+      </textRows>
+    </record>
+    <record xml:id="record670" timeIn="01:05:15:14" timeOut="01:05:19:08">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">I thought I warned you, Chris.</add>
+        <add horPos="C" verPos="12" color="white">I didn&apos;t want this to happen.</add>
+      </textRows>
+    </record>
+    <record xml:id="record671" timeIn="01:05:36:08" timeOut="01:05:37:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m going in!</add>
+      </textRows>
+    </record>
+    <record xml:id="record672" timeIn="01:05:43:02" timeOut="01:05:44:18">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Right there, punk!</add>
+      </textRows>
+    </record>
+    <record xml:id="record673" timeIn="01:05:46:03" timeOut="01:05:48:17">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Come on, Chris! Come on!</add>
+      </textRows>
+    </record>
+    <record xml:id="record674" timeIn="01:05:59:06" timeOut="01:06:00:14">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Deni, now!</add>
+      </textRows>
+    </record>
+    <record xml:id="record675" timeIn="01:07:15:04" timeOut="01:07:16:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Oh, no. I&apos;m sorry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record676" timeIn="01:07:18:22" timeOut="01:07:20:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m sorry.</add>
+      </textRows>
+    </record>
+    <record xml:id="record677" timeIn="01:07:21:19" timeOut="01:07:24:10">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-Where is everybody?</add>
+        <add horPos="C" verPos="12" color="white">-Pete ran outside.</add>
+      </textRows>
+    </record>
+    <record xml:id="record678" timeIn="01:07:29:14" timeOut="01:07:32:03">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You stabbed me with a potato peeler.</add>
+      </textRows>
+    </record>
+    <record xml:id="record679" timeIn="01:08:03:00" timeOut="01:08:04:16">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You gonna be okay?</add>
+      </textRows>
+    </record>
+    <record xml:id="record680" timeIn="01:09:38:14" timeOut="01:09:39:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Hey, Chris.</add>
+      </textRows>
+    </record>
+    <record xml:id="record681" timeIn="01:09:40:21" timeOut="01:09:42:09">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Get up, Jay.</add>
+      </textRows>
+    </record>
+    <record xml:id="record682" timeIn="01:09:42:11" timeOut="01:09:44:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Just a second.</add>
+      </textRows>
+    </record>
+    <record xml:id="record683" timeIn="01:09:44:18" timeOut="01:09:48:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Remember when we used to play</add>
+        <add horPos="C" verPos="12" color="white">hide-and-seek up here?</add>
+      </textRows>
+    </record>
+    <record xml:id="record684" timeIn="01:09:52:18" timeOut="01:09:55:07">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">-That was my favorite sound.</add>
+        <add horPos="C" verPos="12" color="white">-Get up!</add>
+      </textRows>
+    </record>
+    <record xml:id="record685" timeIn="01:09:57:12" timeOut="01:09:59:15">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Look, Chris…</add>
+      </textRows>
+    </record>
+    <record xml:id="record686" timeIn="01:10:06:12" timeOut="01:10:10:00">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You want to know</add>
+        <add horPos="C" verPos="12" color="white">what my new favorite sound&apos;s gonna be?</add>
+      </textRows>
+    </record>
+    <record xml:id="record687" timeIn="01:10:10:04" timeOut="01:10:13:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">The sound of you screaming</add>
+        <add horPos="C" verPos="12" color="white">like a little bitch.</add>
+      </textRows>
+    </record>
+    <record xml:id="record688" timeIn="01:10:13:10" timeOut="01:10:18:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Bet you wish you took that job offer now?</add>
+        <add horPos="C" verPos="12" color="white">But, no! You had to be Mr. Hero Boy!</add>
+      </textRows>
+    </record>
+    <record xml:id="record689" timeIn="01:10:18:12" timeOut="01:10:20:21">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You forgot this, this is my town!</add>
+      </textRows>
+    </record>
+    <record xml:id="record690" timeIn="01:11:14:00" timeOut="01:11:15:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Yes!</add>
+      </textRows>
+    </record>
+    <record xml:id="record691" timeIn="01:12:33:18" timeOut="01:12:35:07">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re nothing.</add>
+      </textRows>
+    </record>
+    <record xml:id="record692" timeIn="01:12:51:17" timeOut="01:12:55:02">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">You&apos;re right, Jay.</add>
+        <add horPos="C" verPos="12" color="white">This does change our relationship.</add>
+      </textRows>
+    </record>
+    <record xml:id="record693" timeIn="01:12:55:15" timeOut="01:12:57:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">This is my town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record694" timeIn="01:12:59:16" timeOut="01:13:01:11">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re under arrest.</add>
+      </textRows>
+    </record>
+    <record xml:id="record695" timeIn="01:13:07:19" timeOut="01:13:09:13">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That ought to do it.</add>
+      </textRows>
+    </record>
+    <record xml:id="record696" timeIn="01:13:12:12" timeOut="01:13:14:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">What are you doing?</add>
+      </textRows>
+    </record>
+    <record xml:id="record697" timeIn="01:13:14:08" timeOut="01:13:17:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Getting some souvenirs.</add>
+        <add horPos="C" verPos="12" color="white">I&apos;m gonna miss the place.</add>
+      </textRows>
+    </record>
+    <record xml:id="record698" timeIn="01:13:18:04" timeOut="01:13:19:23">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s how it starts.</add>
+      </textRows>
+    </record>
+    <record xml:id="record699" timeIn="01:13:20:00" timeOut="01:13:24:01">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Next you&apos;ll be accepting bribes</add>
+        <add horPos="C" verPos="12" color="white">and setting speed traps all over town.</add>
+      </textRows>
+    </record>
+    <record xml:id="record700" timeIn="01:13:24:03" timeOut="01:13:26:20">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Cutting up trucks. You know how you are.</add>
+      </textRows>
+    </record>
+    <record xml:id="record701" timeIn="01:13:27:00" timeOut="01:13:29:12">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Not to mention the cavity searches.</add>
+      </textRows>
+    </record>
+    <record xml:id="record702" timeIn="01:13:31:16" timeOut="01:13:33:00">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">You&apos;re gonna like that.</add>
+      </textRows>
+    </record>
+    <record xml:id="record703" timeIn="01:13:33:02" timeOut="01:13:36:04">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Speaking of which,</add>
+        <add horPos="C" verPos="12" color="white">do you think Jay&apos;s got a casino in the pen?</add>
+      </textRows>
+    </record>
+    <record xml:id="record704" timeIn="01:13:36:05" timeOut="01:13:37:05">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">Could be.</add>
+      </textRows>
+    </record>
+    <record xml:id="record705" timeIn="01:13:37:07" timeOut="01:13:39:17">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Running the Shower Tower</add>
+        <add horPos="C" verPos="12" color="white">with the fellas?</add>
+      </textRows>
+    </record>
+    <record xml:id="record706" timeIn="01:13:40:00" timeOut="01:13:43:06">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">He&apos;s probably blowing on</add>
+        <add horPos="C" verPos="12" color="white">somebody&apos;s dice right now.</add>
+      </textRows>
+    </record>
+    <record xml:id="record707" timeIn="01:13:45:21" timeOut="01:13:47:02">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">That&apos;s lunch.</add>
+      </textRows>
+    </record>
+    <record xml:id="record708" timeIn="01:13:47:04" timeOut="01:13:49:12">
+      <textRows>
+        <add horPos="C" verPos="11" color="white">Let&apos;s go pick up my old man,</add>
+        <add horPos="C" verPos="12" color="white">grab something to eat.</add>
+      </textRows>
+    </record>
+    <record xml:id="record709" timeIn="01:13:49:13" timeOut="01:13:51:08">
+      <textRows>
+        <add horPos="C" verPos="12" color="white">I&apos;m with you, buddy.</add>
+      </textRows>
+    </record>
+  </body>
+</CaptionsIncXML>

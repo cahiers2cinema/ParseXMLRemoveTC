@@ -39,8 +39,8 @@ filetext = ""
 for child in body:
     #eventext = ""
     #eventext += child[0].text + "\n"
-    for child in child[0]:
-        filetext += str(child.text) + "\n"
+    for row in child[0]:
+        filetext += str(row.text) + "\n"
     filetext += "\n"
 
 

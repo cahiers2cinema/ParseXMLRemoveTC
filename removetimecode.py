@@ -20,8 +20,8 @@ finalfile = "fixedfile.xml"
 
 body = root[1]
 record = body[0]
-textrows = record[0]
-actualevent = textrows[0]
+textrows = record[0:-1]
+actualevent = textrows[0:-1]
 #note it can have two children, so actualevent isn't fixed, but don't need it right now
 
 #subtitletext = root[1]

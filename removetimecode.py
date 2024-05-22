@@ -5,7 +5,7 @@ tree = ET.parse(file)
 root = tree.getroot()
 #y = ET.tostring(root, encoding='utf8').decode('utf8')
 finalfile = "fixedfile.xml"
-out = open("out.xml", "w")
+#out = open("out.xml", "w")
 #newfile = ""
 
 #This program  is a training test that removes
